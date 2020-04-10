@@ -1,0 +1,2 @@
+/usr/local/lib/x86_64-linux-gnu/pkgconfig/ompl.pc
+/usr/local/lib/x86_64-linux-gnu/pkgconfig/libuvc.pc
