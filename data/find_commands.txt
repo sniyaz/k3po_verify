@@ -1,0 +1,13 @@
+find . -name "noncopyable.hpp" -print
+
+find . -name "libboost_filesystem.so" -print
+
+find . -name "libpthread.so" -print
+
+
+./usr/lib/x86_64-linux-gnu/libboost_filesystem.so
+./usr/lib/libboost_filesystem.so
+
+
+ada_description
+
