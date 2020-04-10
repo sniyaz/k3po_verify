@@ -8,6 +8,6 @@ sudo find /usr/local/lib/x86_64-linux-gnu ! -type d > ~/Desktop/find_outputs/F.t
 sudo find /lib/x86_64-linux-gnu ! -type d > ~/Desktop/find_outputs/G.txt
 sudo find /lib64 ! -type d > ~/Desktop/find_outputs/H.txt
 sudo find /usr/lib/x86_64-linux-gnu ! -type d > ~/Desktop/find_outputs/I.txt
-sudo find /usr/local/lib ! -type d > ~/Desktop/find_outputs/I.txt
-sudo find /lib ! -type d > ~/Desktop/find_outputs/I.txt
-sudo find /usr/lib ! -type d > ~/Desktop/find_outputs/I.txt
+sudo find /usr/local/lib ! -type d > ~/Desktop/find_outputs/J.txt
+sudo find /lib ! -type d > ~/Desktop/find_outputs/K.txt
+sudo find /usr/lib ! -type d > ~/Desktop/find_outputs/L.txt
