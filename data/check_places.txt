@@ -1,0 +1,20 @@
+ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../x86_64-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include
+ /usr/local/include
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed
+ /usr/include/x86_64-linux-gnu
+ /usr/include
+
+SEARCH_DIR("/usr/x86_64-linux-gnu/lib64")
+SEARCH_DIR("=/usr/local/lib/x86_64-linux-gnu")
+SEARCH_DIR("=/usr/local/lib64")
+SEARCH_DIR("=/lib/x86_64-linux-gnu")
+SEARCH_DIR("=/lib64")
+SEARCH_DIR("=/usr/lib/x86_64-linux-gnu")
+SEARCH_DIR("=/usr/lib64")
+SEARCH_DIR("=/usr/local/lib")
+SEARCH_DIR("=/lib")
+SEARCH_DIR("=/usr/lib")
