@@ -18,3 +18,5 @@ SEARCH_DIR("=/usr/lib64")
 SEARCH_DIR("=/usr/local/lib")
 SEARCH_DIR("=/lib")
 SEARCH_DIR("=/usr/lib")
+
+NOTE: Plus opt/ros stuff.
