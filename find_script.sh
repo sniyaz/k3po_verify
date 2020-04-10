@@ -14,7 +14,10 @@ sudo find . ! -type d > ~/Desktop/find_outputs/usr_include_x86_64-linux-gnu.txt
 cd /usr/include
 sudo find . ! -type d > ~/Desktop/find_outputs/usr_include.txt
 
+cd /opt/ros/indigo/include
+sudo find . ! -type d > ~/Desktop/find_outputs/opt_ros_indigo_include.txt
 
+# Libs.
 cd /usr/local/lib/x86_64-linux-gnu
 sudo find . ! -type d > ~/Desktop/find_outputs/usr_local_lib_x86_64-linux-gnu.txt
 
@@ -35,3 +38,6 @@ sudo find . ! -type d > ~/Desktop/find_outputs/lib.txt
 
 cd /usr/lib
 sudo find . ! -type d > ~/Desktop/find_outputs/usr_lib.txt
+
+cd /opt/ros/indigo/lib
+sudo find . ! -type d > ~/Desktop/find_outputs/opt_ros_indigo_lib.txt
