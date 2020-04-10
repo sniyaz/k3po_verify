@@ -68,6 +68,8 @@ def check_grouped_find_files():
         # NOTE: Also strip ".txt"
         dir_basename = os.path.basename(cur_output_file)[:-4]
         true_dir_name = dir_basename.replace("_", "/")
+        # Need to fix this too.
+        true_dir_name = true_dir_name.replace("x86/64", "x86_64")
         # Let's add that slash in front as well.
         true_dir_name = "/" + true_dir_name
         print("Find Dir: " + true_dir_name)
