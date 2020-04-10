@@ -1,0 +1,2 @@
+./pkgconfig/ompl.pc
+./pkgconfig/libuvc.pc
