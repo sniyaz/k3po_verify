@@ -15,42 +15,23 @@ def get_output_files(cur_dir):
     return(files_out)
 
 
-def get_dpkg_files():
-    cleaned_files_out = set()
-
-    dpkg_output_files = get_output_files(dpkg_output_dir)
-    for cur_file in dpkg_output_files:
-        with open(cur_file) as fp:
-            for cur_line in fp:
-                cur_line = cur_line.rstrip('\n')
-                line_parts = cur_line.split(" ")
-                true_file_name = line_parts[-1]
-                cleaned_files_out.add(true_file_name)
-                # print(true_file_name)
-            fp.close()
-
-    return cleaned_files_out
-
-def get_find_files():
-    cleaned_files_out = set()
-
-    find_output_files = get_output_files(find_output_dir)
-    for cur_file in find_output_files:
-        with open(cur_file) as fp:
-            for cur_line in fp:
-                cur_line = cur_line.rstrip('\n')
-                true_file_name = cur_line
-                cleaned_files_out.add(true_file_name)
-                print(true_file_name)
-            fp.close()
-
-    return cleaned_files_out
-
 def check_if_ignored(cur_filename, ignore_prefixes):
     for cur_prefix in ignore_prefixes:
         if cur_filename.startswith(cur_prefix):
             return True
     return False
+
+
+def get_dir_from_find_output_file(cur_output_file):
+     # NOTE: Also strip ".txt"
+    dir_basename = os.path.basename(cur_output_file)[:-4]
+    true_dir_name = dir_basename.replace("_", "/")
+    # Need to fix this too.
+    true_dir_name = true_dir_name.replace("x86/64", "x86_64")
+    # Let's add that slash in front as well.
+    true_dir_name = "/" + true_dir_name
+
+    return true_dir_name
 
 
 def check_grouped_find_files():
@@ -65,13 +46,7 @@ def check_grouped_find_files():
 
     # First, load everything in...
     for cur_output_file in find_output_files:
-        # NOTE: Also strip ".txt"
-        dir_basename = os.path.basename(cur_output_file)[:-4]
-        true_dir_name = dir_basename.replace("_", "/")
-        # Need to fix this too.
-        true_dir_name = true_dir_name.replace("x86/64", "x86_64")
-        # Let's add that slash in front as well.
-        true_dir_name = "/" + true_dir_name
+        true_dir_name = get_dir_from_find_output_file(cur_output_file)
         print("Find Dir: " + true_dir_name)
 
         grouped_files[true_dir_name] = set()
@@ -103,5 +78,5 @@ def check_grouped_find_files():
                     print(full_dup_second)
 
               
-
-check_grouped_find_files()
+if __name__ == '__main__':
+    check_grouped_find_files()
