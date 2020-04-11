@@ -40,18 +40,31 @@ def get_find_files():
     return cleaned_files_out
 
 
+# NOTE: We wat to ignore python files.
+def check_if_python_file(full_filename):
+    filename, file_extension = os.path.splitext(full_filename)
+    if file_extension == ".py" or file_extension == ".pyc":
+        return True
+
+
 def find_not_package_files():
     ignore_prefixes = [
-        "/usr/local/lib/python3.4/dist-packages/tensorflow/",
-        "/usr/lib/node_modules", 
-        "/usr/local/lib/node_modules", 
+        "/usr/lib/pymodules/python2.7/matplotlib/",
+        "/usr/lib/jvm/java-8-oracle/",
+        "/usr/local/lib/python3.4/dist-packages/",
+        "/usr/local/lib/python3.5/dist-packages",
         "/usr/local/lib/python2.7/dist-packages",
-        "/usr/lib/python2.7/dist-packages"]
+        "/usr/lib/python2.7/dist-packages",
+        "/usr/lib/node_modules", 
+        "/usr/local/lib/node_modules"]
 
     for cur_find_file in find_file_set:
         if cur_find_file not in dpkg_file_set:
 
             if check_if_ignored(cur_find_file, ignore_prefixes):
+                continue
+
+            if check_if_python_file(cur_find_file):
                 continue
 
             print("")
