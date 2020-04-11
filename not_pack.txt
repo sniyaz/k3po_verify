@@ -1,2454 +1,1146 @@
 
 NOT PACK: 
-/usr/local/lib/libopencv_surface_matching.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_objdetect.so.3.2
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw2.1/notice.txt_SW_RM.1.1.1-00157-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/SOURCES.txt
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/scan.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/opencv_modules.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/private.cuda.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_imgproc.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/aruco/charuco.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_imgproc.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cv_cpu_helper.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_plot.so
-
-NOT PACK: 
-/usr/local/include/opencv2/matlab/map.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_video.so.3.3
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00051-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/core/types_c.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/saturate_cast.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/ippasync.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00037-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/ceres/problem.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/warp_reduce.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_phase_unwrapping.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/dist.h
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/top_level.txt
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkHybridPython.so
-
-NOT PACK: 
-/usr/local/include/ceres/fpclassify.h
-
-NOT PACK: 
-/usr/local/include/opencv2/dnn/dict.hpp
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1-nspkg.pth
-
-NOT PACK: 
-/usr/local/lib/libopencv_dpm.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/motion_core.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/warp.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/ir_robot.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/xfeatures2d/cuda.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/fast_marching_inl.hpp
-
-NOT PACK: 
-/lib/ufw/user.rules
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/warp_shuffle.hpp
-
-NOT PACK: 
-/usr/lib/libblas.so.3
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/firmware-6.bin_RM.4.4.1.c2-00041-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/lib/libopencv_flann.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/color.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/internal/scoped_ptr.h
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/weighted_median_filter.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_imgcodecs.so.3.3.0
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/limits.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_line_descriptor.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_objdetect.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_superres.so.3.2.0
-
-NOT PACK: 
-/usr/lib/xorg/modules/drivers/nvidia_drv.so
-
-NOT PACK: 
-/usr/local/include/opencv2/xfeatures2d.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/miniflann.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00058-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/turbojpeg.h
-
-NOT PACK: 
-/usr/lib/mozilla/plugins/flashplugin-alternative.so
-
-NOT PACK: 
-/usr/include/eigen3/unsupported/unsupported
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00124-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/local/include/opencv/cvwimage.h
-
-NOT PACK: 
-/usr/local/lib/cmake/glfw3/glfw3Targets-noconfig.cmake
-
-NOT PACK: 
-/usr/local/include/opencv2/dnn/shape_utils.hpp
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/pygame.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/hal/intrin.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/firmware-4.bin_WLAN.RM.2.0-00180-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/local/include/ceres/solver.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_highgui.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_face.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00051-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/kdtree_index.h
-
-NOT PACK: 
-/usr/local/include/opencv2/video/tracking.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/dpm.hpp
-
-NOT PACK: 
-/usr/local/lib/libceres.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_superres.so.3.3.0
-
-NOT PACK: 
-/usr/local/include/ceres/autodiff_cost_function.h
-
-NOT PACK: 
-/usr/local/include/ceres/internal/manual_constructor.h
-
-NOT PACK: 
-/usr/local/include/opencv2/bioinspired/retinafasttonemapping.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/stabilizer.hpp
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/immodules.cache
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/nn_index.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/functional.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/photo/cuda.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/ccalib/omnidir.hpp
-
-NOT PACK: 
-/usr/local/lib/cmake/glfw3/glfw3ConfigVersion.cmake
-
-NOT PACK: 
-/usr/local/include/GLFW/glfw3.h
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00031-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/viz/types.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_reg.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/face/bif.hpp
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/dependency_links.txt
-
-NOT PACK: 
-/usr/local/lib/libopencv_datasets.so.3.2
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00132-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/lib/libopencv_shape.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/fr_adience.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00041-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkWidgetsPython.so
-
-NOT PACK: 
-/usr/local/include/opencv2/stereo.hpp
-
-NOT PACK: 
-/usr/local/include/jconfig.h
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/outlier_rejection.hpp
-
-NOT PACK: 
-/usr/local/lib/pkgconfig/pr-ompl.pc
-
-NOT PACK: 
-/usr/local/lib/libopencv_fuzzy.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cvstd.hpp
-
-NOT PACK: 
-/usr/lib/cups/backend/snmp
-
-NOT PACK: 
-/usr/local/include/opencv2/opencv.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/ml/ml.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_dpm.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/core/core.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00042-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/bgsegm.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00102-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/dnn/blob.hpp
-
-NOT PACK: 
-/usr/local/include/opencv/cxmisc.h
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/fastevents.h
-
-NOT PACK: 
-/usr/local/include/opencv2/imgcodecs/imgcodecs.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/calib3d/calib3d_c.h
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/is_bsds.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/line_descriptor/descriptor.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/dnn/layer.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/sfm/conditioning.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/hal/intrin_cpp.hpp
-
-NOT PACK: 
-/usr/lib/graphviz/config6
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00038-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/cups/backend/lpd
-
-NOT PACK: 
-/usr/local/include/opencv2/core/utils/logger.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_highgui.so.3.3.0
-
-NOT PACK: 
-/usr/local/include/opencv2/sfm/triangulation.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/internal/autodiff.h
-
-NOT PACK: 
-/usr/local/include/opencv2/photo/photo_c.h
-
-NOT PACK: 
-/usr/local/include/ceres/covariance.h
-
-NOT PACK: 
-/usr/local/include/opencv2/viz/viz3d.hpp
-
-NOT PACK: 
-/usr/local/lib/libpr-ompl-frechet.so
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/VTK-5.8.0.egg-info
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/dependency_links.txt
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/util.hpp
-
-NOT PACK: 
-/usr/local/include/opencv/cv.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/xphoto/white_balance.hpp
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.dep.bin
-
-NOT PACK: 
-/usr/local/include/opencv/cvaux.hpp
-
-NOT PACK: 
-/usr/local/include/opencv/cvaux.h
-
-NOT PACK: 
-/usr/lib/libblas.a
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/general.h
-
-NOT PACK: 
-/usr/local/include/opencv2/phase_unwrapping/histogramphaseunwrapping.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/result_set.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/eigen.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/gr_skig.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_calib3d.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/sfm/io.hpp
-
-NOT PACK: 
-/usr/local/lib/pkgconfig/glfw3.pc
-
-NOT PACK: 
-/usr/local/include/GLFW/glfw3native.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_aruco.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_core.so.3.2.0
-
-NOT PACK: 
-/usr/lib/kde4/libexec/kdesu
-
-NOT PACK: 
-/usr/local/lib/libopencv_ccalib.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libceres.so.1.13.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_viz.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/features2d/features2d.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/saliency.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_stitching.so.3.3
-
-NOT PACK: 
-/usr/local/include/opencv2/matlab/transpose.hpp
-
-NOT PACK: 
-/usr/local/lib/cmake/glfw3/glfw3Targets.cmake
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/pgcompat.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_imgcodecs.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda_types.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00037-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/core/utility.hpp
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/_camera.h
-
-NOT PACK: 
-/usr/local/lib/libmagi.so.0.1.0
-
-NOT PACK: 
-/usr/local/lib/cmake/glfw3/glfw3Config.cmake
-
-NOT PACK: 
-/lib/plymouth/themes/default.plymouth
-
-NOT PACK: 
-/usr/local/lib/libopencv_imgproc.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/params.h
-
-NOT PACK: 
-/usr/local/include/ceres/rotation.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/directx.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/mappergradproj.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/tracking/onlineMIL.hpp
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/pgopengl.h
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/warpers.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_calib3d.so.3.3.0
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/detail/color_detail.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_imgproc.so.3.3.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_reg.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/highgui/highgui.hpp
-
-NOT PACK: 
-/usr/lib/mozilla/plugins/libjavaplugin.so
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/or_mnist.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/surface_matching.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/lsh_table.h
-
-NOT PACK: 
-/usr/local/include/opencv2/features2d.hpp
-
-NOT PACK: 
-/usr/local/lib/libjpeg.la
-
-NOT PACK: 
-/usr/local/lib/libopencv_bgsegm.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cv_cpu_dispatch.h
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/updates/dkms/bbswitch.ko
-
-NOT PACK: 
-/usr/local/include/opencv2/surface_matching/icp.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/filters.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_stereo.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_shape.so.3.3
-
-NOT PACK: 
-/usr/local/lib/libopencv_photo.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_videoio.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/dnn/blob.inl.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/ocl_genbase.hpp
-
-NOT PACK: 
-/usr/local/lib/cmake/libuvc/libuvcConfigVersion.cmake
-
-NOT PACK: 
-/usr/local/include/opencv2/dnn/dnn.inl.hpp
-
-NOT PACK: 
-/usr/local/lib/cmake/Ceres/CeresConfig.cmake
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/msm_middlebury.hpp
-
-NOT PACK: 
-/usr/local/lib/cmake/Ceres/CeresTargets.cmake
-
-NOT PACK: 
-/usr/local/lib/libopencv_structured_light.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/_surface.h
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/pgarrinter.h
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/any.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/common.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/slam_tumindoor.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_bgsegm.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_freetype.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_stereo.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_fuzzy.so
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/not-zip-safe
-
-NOT PACK: 
-/usr/lib/flashplugin-installer/libflashplayer.so
-
-NOT PACK: 
 /lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00065-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/disparity_filter.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/seeds.hpp
-
-NOT PACK: 
-/usr/local/lib/libturbojpeg.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00014-QCARMSWP-1
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.dep
-
-NOT PACK: 
-/usr/local/lib/x86_64-linux-gnu/pkgconfig/libuvc.pc
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/tr_icdar.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_photo.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/config.h
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384_uvm.ko
-
-NOT PACK: 
-/usr/local/include/opencv2/cvconfig.h
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/fast_line_detector.hpp
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/scrap.h
-
-NOT PACK: 
-/usr/local/include/opencv2/text.hpp
-
-NOT PACK: 
-/usr/local/lib/libmagi.so
-
-NOT PACK: 
-/usr/local/include/opencv2/plot.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/block.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/freetype.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/saving.h
-
-NOT PACK: 
-/usr/local/include/opencv2/xphoto/dct_image_denoising.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/ir_affine.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00045-QCARMSWP-3
-
-NOT PACK: 
-/usr/local/include/opencv2/tracking/tldDataset.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_dnn.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/core/operations.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_videoio.so
-
-NOT PACK: 
-/usr/local/include/opencv2/phase_unwrapping.hpp
-
-NOT PACK: 
-/lib/recovery-mode/recovery-mode
-
-NOT PACK: 
-/usr/local/lib/libopencv_flann.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_calib3d.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/optflow/sparse_matching_gpc.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_core.so.3.3.0
-
-NOT PACK: 
-/usr/lib/liblapack.so.3
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/simplex_downhill.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/border_interpolate.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/cost_function_to_functor.h
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/SOURCES.txt
-
-NOT PACK: 
-/usr/local/include/ceres/c_api.h
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/composite_index.h
-
-NOT PACK: 
-/usr/local/include/opencv2/imgcodecs.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/matx.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/camera.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/version.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/optflow.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_superres.so.3.3
-
-NOT PACK: 
-/usr/local/include/opencv2/core/hal/intrin_sse.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/line_descriptor.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/xphoto/bm3d_image_denoising.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/softfloat.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/ccalib/multicalib.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/types.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_viz.so.3.3.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_face.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/frame_source.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_bioinspired.so.3.2
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00035-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/lib/libopencv_ximgproc.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/opengl.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/sfm/fundamental.hpp
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.symbols
-
-NOT PACK: 
-/usr/local/lib/libopencv_imgcodecs.so
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/pd_caltech.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/tracking/feature.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/sfm/robust.hpp
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkChartsPython.so
-
-NOT PACK: 
-/lib/ufw/user6.rules
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/motion_stabilizing.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_saliency.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_core.so.3.3
-
-NOT PACK: 
-/usr/local/lib/libopencv_stitching.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw2.1/board-2.bin
-
-NOT PACK: 
-/usr/local/lib/libjpeg.a
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.symbols.bin
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/ground_truth.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_videoio.so.3.3.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_tracking.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/fast_marching.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/hal/interface.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_ml.so.3.3
-
-NOT PACK: 
-/usr/local/include/opencv2/surface_matching/t_hash_int.hpp
-
-NOT PACK: 
-/usr/local/lib/cmake/Ceres/FindGlog.cmake
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.builtin.bin
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00119-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/lib/libuvc.so
-
-NOT PACK: 
-/usr/local/include/ceres/ordered_groups.h
-
-NOT PACK: 
-/usr/local/include/opencv2/structured_light/graycodepattern.hpp
-
-NOT PACK: 
-/usr/lib/cups/backend/socket
-
-NOT PACK: 
-/usr/local/lib/libopencv_sfm.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/photo.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00079-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/local/lib/libLRAstar.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_ml.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_superres.so
-
-NOT PACK: 
-/usr/local/include/opencv2/objdetect/objdetect_c.h
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00132-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv/ml.h
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/kmeans_index.h
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/mappergradaffine.hpp
-
-NOT PACK: 
-/usr/local/include/jpeglib.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_shape.so.3.2
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4/firmware-6.bin_WLAN.RM.4.4-00022-QCARMSWPZ-2
-
-NOT PACK: 
-/usr/local/include/opencv2/videoio/videoio.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_structured_light.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/.priority
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/inpainting.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/fast_hough_transform.hpp
-
-NOT PACK: 
-/usr/local/include/opencv/highgui.h
-
-NOT PACK: 
-/usr/local/include/opencv/cxcore.h
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/matchers.hpp
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.alias
-
-NOT PACK: 
-/usr/lib/vdpau/libvdpau_nvidia.so.1
-
-NOT PACK: 
-/usr/local/include/opencv2/shape.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_xobjdetect.so
-
-NOT PACK: 
-/usr/local/include/opencv2/shape/shape_distance.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/ocl.hpp
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/freetype.h
-
-NOT PACK: 
-/usr/local/include/libuvc/libuvc.h
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkViewsPython.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/hal/intrin_neon.hpp
-
-NOT PACK: 
-/usr/local/include/jerror.h
-
-NOT PACK: 
-/usr/local/include/opencv2/superres.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/traits.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_ximgproc.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/ceres/conditioned_cost_function.h
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/random.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_ximgproc.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_dnn.so.3.3.0
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.devname
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00128-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/local/include/opencv2/core/core_c.h
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/slam_kitti.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_objdetect.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_viz.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/pkgconfig/eyerectoo_stream.pc
-
-NOT PACK: 
-/usr/local/lib/libopencv_optflow.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_photo.so.3.3.0
-
-NOT PACK: 
-/usr/local/lib/libuvc.so.0.0.5
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/map.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_video.so.3.3.0
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00065-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/index_testing.h
-
-NOT PACK: 
-/usr/local/include/ceres/local_parameterization.h
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkIOPython.so
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkRenderingPython.so
-
-NOT PACK: 
-/usr/local/include/eyerectoo_stream/Journal.h
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache
-
-NOT PACK: 
-/usr/local/lib/libherb.so
-
-NOT PACK: 
-/usr/include/Eigen
-
-NOT PACK: 
-/usr/local/lib/libopencv_features2d.so.3.3
-
-NOT PACK: 
-/usr/local/include/opencv2/stereo/stereo.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/normal_prior.h
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/mixer.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/type_traits.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/gr_chalearn.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/msm_epfl.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_videostab.so.3.3
-
-NOT PACK: 
-/usr/local/lib/cmake/Ceres/CeresConfigVersion.cmake
-
-NOT PACK: 
-/usr/local/include/opencv2/aruco.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_face.so.3.2.0
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkGeovisPython.so
-
-NOT PACK: 
-/usr/local/include/opencv2/imgproc/detail/distortion_model.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/va_intel.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/firmware-6.bin_RM.4.4.1.c2-00057-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/mapper.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/vec_traits.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda.inl.hpp
-
-NOT PACK: 
-/usr/local/lib/cmake/libuvc/libuvcConfig.cmake
-
-NOT PACK: 
-/usr/local/lib/libopencv_objdetect.so.3.3.0
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/pd_inria.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/detail/reduce_key_val.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/shape/emdL1.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/sfm/numeric.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/videoio/cap_ios.h
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00042-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/phase_unwrapping/phase_unwrapping.hpp
-
-NOT PACK: 
-/usr/lib/liblapack.so.3gf
-
-NOT PACK: 
-/usr/local/include/opencv2/xphoto.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/wobble_suppression.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/deriche_filter.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_reg.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/notice.txt_WLAN.RM.2.0-00180-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/local/lib/libopencv_optflow.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/ceres/internal/fixed_array.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_imgcodecs.so.3.3
-
-NOT PACK: 
-/usr/local/include/jmorecfg.h
-
-NOT PACK: 
-/usr/local/include/ceres/iteration_callback.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_dnn.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_freetype.so.3.2
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkInfovisPython.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_core.so.3.2
-
-NOT PACK: 
-/usr/local/include/ceres/gradient_problem_solver.h
-
-NOT PACK: 
-/usr/local/include/opencv2/fuzzy/fuzzy_F0_math.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00014-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/tracking/tracking.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/mappergradsimilar.hpp
-
-NOT PACK: 
-/usr/local/include/LRAstar.hpp
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/font.h
-
-NOT PACK: 
-/usr/local/include/opencv2/stereo/descriptor.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_superres.so.3.2
-
-NOT PACK: 
-/usr/local/include/ceres/internal/eigen.h
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/notice.txt_RM.4.4.1.c2-00041-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/autotuned_index.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_aruco.so
-
-NOT PACK: 
-/usr/local/lib/libpr-ompl.so
-
-NOT PACK: 
-/usr/local/include/opencv2/ccalib.hpp
-
-NOT PACK: 
-/usr/lib/liblapack.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/fast_math.hpp
-
-NOT PACK: 
-/usr/local/include/opencv/cxeigen.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_video.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cvdef.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/funcattrib.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00045-QCARMSWP-3
-
-NOT PACK: 
-/usr/lib/liblapack.a
-
-NOT PACK: 
-/usr/local/include/ceres/loss_function.h
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/bitmask.h
-
-NOT PACK: 
-/usr/local/include/opencv2/sfm/reconstruct.hpp
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/_pygame.h
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/surface.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_saliency.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_ccalib.so
-
-NOT PACK: 
-/usr/local/include/ceres/internal/disable_warnings.h
-
-NOT PACK: 
-/usr/local/include/opencv2/sfm/projection.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_core.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_xfeatures2d.so.3.2
-
-NOT PACK: 
-/usr/local/include/ceres/version.h
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/mappergradshift.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/reduce.hpp
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/SOURCES.txt
-
-NOT PACK: 
-/usr/local/lib/libuvc.so.0
-
-NOT PACK: 
-/usr/local/include/opencv2/imgproc/imgproc.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00110-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/libuvc/libuvc_config.h
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/logger.h
-
-NOT PACK: 
-/usr/local/include/opencv2/structured_light.hpp
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/top_level.txt
-
-NOT PACK: 
-/usr/lib/cups/backend/dnssd
-
-NOT PACK: 
-/usr/local/lib/libopencv_videostab.so.3.3.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_ml.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_datasets.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/hal/hal.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_dpm.so
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/ar_sports.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/flann.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/ovx.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/internal/macros.h
-
-NOT PACK: 
-/usr/local/include/opencv2/viz.hpp
-
-NOT PACK: 
-/usr/lib/libblas.so.3gf
-
-NOT PACK: 
-/usr/local/include/opencv2/videoio.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/types.h
-
-NOT PACK: 
-/usr/local/include/opencv/cv.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_tracking.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_sfm.so.3.2
-
-NOT PACK: 
-/usr/lib/libmpi++.so
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/slic.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/surface_matching/ppf_helpers.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00008-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/core/mat.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_structured_light.so.3.2
-
-NOT PACK: 
-/usr/local/include/ceres/ceres.h
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00038-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/dynamic_bitset.h
-
-NOT PACK: 
-/usr/local/include/opencv2/calib3d.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/mapaffine.hpp
-
-NOT PACK: 
-/usr/local/lib/pkgconfig/libjpeg.pc
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/util_inl.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/xfeatures2d/nonfree.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_phase_unwrapping.so
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384.ko
-
-NOT PACK: 
-/usr/local/lib/cmake/libuvc/libuvcTargets-release.cmake
-
-NOT PACK: 
-/usr/local/lib/libopencv_xobjdetect.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/imgproc/types_c.h
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/mappergradeuclid.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00079-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/or_sun.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_ml.so.3.3.0
-
-NOT PACK: 
-/usr/local/include/opencv2/core/affine.hpp
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/requires.txt
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/gio/modules/giomodule.cache
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/global_motion.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_text.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/edge_filter.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/dnn/all_layers.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_bgsegm.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libjpeg.so
-
-NOT PACK: 
-/usr/local/include/opencv2/tracking.hpp
-
-NOT PACK: 
-/usr/local/lib/libturbojpeg.la
-
-NOT PACK: 
-/usr/local/include/opencv2/core/mat.inl.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_xfeatures2d.so
-
-NOT PACK: 
-/usr/lib/nvidia-384/libGLESv2.so.2
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/matrix.h
-
-NOT PACK: 
-/lib/plymouth/themes/default.grub
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkImagingPython.so
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/heap.h
-
-NOT PACK: 
-/usr/local/include/opencv2/dnn/layer.details.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/shape/hist_cost.hpp
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384_drm.ko
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00110-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/xobjdetect.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/highgui/highgui_c.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_stitching.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libglfw3.a
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/detail/reduce.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/all_indices.h
-
-NOT PACK: 
-/usr/local/include/ceres/dynamic_cost_function_to_functor.h
-
-NOT PACK: 
-/usr/local/include/opencv2/optflow/pcaflow.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/lsh_index.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_text.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/private.hpp
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384_modeset.ko
-
-NOT PACK: 
-/usr/local/include/opencv2/face/predict_collector.hpp
-
-NOT PACK: 
-/usr/include/unsupported
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/detail/type_traits_detail.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/surface_matching/ppf_match_3d.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_rgbd.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_tracking.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/ceres/crs_matrix.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_fuzzy.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/estimated_covariance.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_videostab.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/sfm.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_objdetect.so.3.3
-
-NOT PACK: 
-/usr/lib/libmpif77.so
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/exposure_compensate.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_video.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/paillou_filter.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/ar_hmdb.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/bioinspired.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_dnn.so
-
-NOT PACK: 
-/usr/lib/libmpi.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_ccalib.so.3.2
-
-NOT PACK: 
-/usr/lib/libblas.so
-
-NOT PACK: 
-/usr/local/include/ceres/numeric_diff_cost_function.h
-
-NOT PACK: 
-/usr/local/include/opencv2/surface_matching/pose_3d.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_xphoto.so
-
-NOT PACK: 
-/usr/local/include/opencv2/fuzzy.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/internal/config.h
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00035-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/PKG-INFO
-
-NOT PACK: 
-/usr/local/lib/libopencv_imgcodecs.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/linear_index.h
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/warpers_inl.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_flann.so.3.3.0
-
-NOT PACK: 
-/usr/local/include/opencv2/core/neon_utils.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_xphoto.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_aruco.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/shape/shape.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/saliency/saliencySpecializedClasses.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/structured_light/sinusoidalpattern.hpp
-
-NOT PACK: 
-/usr/local/lib/libherb.so.0.2.0
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
-
-NOT PACK: 
-/usr/local/lib/libopencv_xobjdetect.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_text.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/saliency/saliencyBaseClasses.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/hierarchical_clustering_index.h
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.dep
-
-NOT PACK: 
-/usr/local/lib/libopencv_stereo.so
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/util.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_freetype.so
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/.path
-
-NOT PACK: 
-/usr/local/lib/pkgconfig/libturbojpeg.pc
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/tr_svt.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/kdtree_single_index.h
-
-NOT PACK: 
-/usr/local/include/opencv2/objdetect/objdetect.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/calib3d/calib3d.hpp
-
-NOT PACK: 
-/usr/lib/nvidia-367/libnvidia-wfb.so.1
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.alias.bin
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/timer.h
-
-NOT PACK: 
-/usr/lib/nvidia-384/libGLESv1_CM.so.1
-
-NOT PACK: 
-/usr/lib/nvidia-384/libEGL.so.1
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/libtxc_dxtn.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/utils/trace.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/tracking/tracker.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/tr_chars.hpp
-
-NOT PACK: 
-/usr/lib/cups/backend/mdns
-
-NOT PACK: 
-/usr/local/include/opencv2/viz/widget_accessor.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_photo.so
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.softdep
-
-NOT PACK: 
-/usr/local/lib/libopencv_videostab.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_plot.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/blenders.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_calib3d.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_shape.so.3.3.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_viz.so.3.3
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkGenericFilteringPython.so
-
-NOT PACK: 
-/lib/plymouth/themes/text.plymouth
-
-NOT PACK: 
-/usr/local/lib/libturbojpeg.so.0
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkCommonPython.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/datamov_utils.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/bioinspired/transientareassegmentationmodule.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/viz/vizcore.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00128-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/local/lib/libopencv_videostab.so
-
-NOT PACK: 
-/usr/local/include/opencv2/bioinspired/bioinspired.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00026-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/dummy.h
-
-NOT PACK: 
-/usr/local/include/opencv2/imgcodecs/imgcodecs_c.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda_stream_accessor.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/warpers.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/fr_lfw.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/ml.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00119-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/or_imagenet.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_photo.so.3.3
-
-NOT PACK: 
-/usr/local/lib/libopencv_surface_matching.so.3.2.0
-
-NOT PACK: 
-/usr/lib/libvdpau_nvidia.so
-
-NOT PACK: 
-/usr/lib/locale/locale-archive
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/track_vot.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_imgproc.so.3.3
-
-NOT PACK: 
-/usr/local/include/opencv2/imgproc/hal/interface.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/simd_functions.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/dataset.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/text/erfilter.hpp
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.alias.bin
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/dynamic_smem.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/seam_finders.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/notice.txt_RM.4.4.1.c2-00057-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/lib/libopencv_phase_unwrapping.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_viz.so
-
-NOT PACK: 
-/usr/include/mpi
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/top_level.txt
-
-NOT PACK: 
-/usr/local/include/ceres/gradient_problem.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/detail/vec_distance_detail.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/optflow/motempl.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00008-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/ceres/cost_function.h
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/timelapsers.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/face/facerec.hpp
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.devname
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.dep.bin
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkGraphicsPython.so
-
-NOT PACK: 
-/usr/local/include/opencv2/rgbd/linemod.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/matlab/mxarray.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_bioinspired.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/wimage.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/sampling.h
-
-NOT PACK: 
-/usr/local/include/ceres/dynamic_autodiff_cost_function.h
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/or_pascal.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/hpe_parse.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_ml.so.3.2
-
-NOT PACK: 
-/usr/local/lib/libopencv_flann.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/imgproc/hal/hal.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/utility.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/optical_flow.hpp
-
-NOT PACK: 
-/usr/local/lib/libjpeg.so.62.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/hpe_humaneva.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/tracking/kalman_filters.hpp
-
-NOT PACK: 
-/usr/lib/jvm/.java-8-oracle.jinfo
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.alias
-
-NOT PACK: 
-/usr/local/lib/libopencv_features2d.so.3.3.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_stitching.so.3.2
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/PKG-INFO
-
-NOT PACK: 
-/usr/local/lib/libopencv_highgui.so.3.2.0
-
-NOT PACK: 
-/usr/local/lib/libopencv_features2d.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/motion_estimators.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/highgui.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/dnn.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/dynamic_numeric_diff_cost_function.h
-
-NOT PACK: 
-/usr/lib/cups/backend/usb
-
-NOT PACK: 
-/usr/local/lib/libopencv_plot.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/defines.h
-
-NOT PACK: 
-/usr/local/lib/cmake/Ceres/FindEigen.cmake
-
-NOT PACK: 
-/usr/local/include/ceres/cubic_interpolation.h
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/log.hpp
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/namespace_packages.txt
-
-NOT PACK: 
-/usr/local/include/opencv2/aruco/dictionary.hpp
-
-NOT PACK: 
-/usr/local/lib/cmake/Ceres/CeresTargets-release.cmake
-
-NOT PACK: 
-/usr/local/include/opencv2/shape/shape_transformer.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/gradient_checker.h
-
-NOT PACK: 
-/usr/local/lib/libturbojpeg.a
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00026-QCARMSWP-1
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.softdep
-
-NOT PACK: 
-/usr/local/include/ceres/internal/numeric_diff.h
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkVolumeRenderingPython.so
-
-NOT PACK: 
-/usr/local/include/opencv/cxcore.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/flann_base.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/tracking/onlineBoosting.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/dynamic_cost_function.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/saturate.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/structured_edge_detection.hpp
-
-NOT PACK: 
-/usr/local/lib/x86_64-linux-gnu/pkgconfig/ompl.pc
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/libfakeroot/libfakeroot-0.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00102-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cvstd.inl.hpp
-
-NOT PACK: 
-/lib/plymouth/themes/ubuntu-text/ubuntu-text.plymouth
-
-NOT PACK: 
-/usr/local/include/opencv2/viz/widgets.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/optim.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_features2d.so.3.2.0
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.builtin.bin
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/emulation.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_saliency.so
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/vec_math.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_stitching.so.3.3.0
-
-NOT PACK: 
-/usr/local/include/opencv2/stereo/matching.hpp
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.symbols
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkFilteringPython.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00124-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/local/lib/libopencv_sfm.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_videoio.so.3.3
-
-NOT PACK: 
-/usr/local/lib/libopencv_line_descriptor.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/core/bufferpool.hpp
-
-NOT PACK: 
-/lib/cpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00058-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/include/opencv2/sfm/simple_pipeline.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/face.hpp
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/pgbufferproxy.h
-
-NOT PACK: 
-/usr/local/include/opencv2/structured_light/structured_light.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/detail/transform_detail.hpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/board-2.bin
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_rgbd.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/fuzzy/types.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/dnn/dnn.hpp
-
-NOT PACK: 
-/usr/local/include/ceres/jet.h
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/track_alov.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab.hpp
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkParallelPython.so
-
-NOT PACK: 
-/usr/local/include/ceres/internal/variadic_evaluate.h
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4/notice.txt_WLAN.RM.4.4-00022-QCARMSWPZ-2
-
-NOT PACK: 
-/usr/local/include/ceres/sized_cost_function.h
-
-NOT PACK: 
-/usr/local/include/opencv2/video.hpp
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/PKG-INFO
-
-NOT PACK: 
-/usr/local/lib/libopencv_calib3d.so.3.3
-
-NOT PACK: 
-/usr/local/include/opencv2/objdetect.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/stitching/detail/autocalib.hpp
-
-NOT PACK: 
-/usr/local/lib/libjpeg.so.62
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00031-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/lib/libopencv_xfeatures2d.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/ceres/numeric_diff_options.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_datasets.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/videoio/videoio_c.h
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/segmentation.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/ring_buffer.hpp
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/mask.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_bioinspired.so.3.2.0
-
-NOT PACK: 
-/usr/local/include/opencv2/core/persistence.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/object_factory.h
-
-NOT PACK: 
-/usr/local/include/opencv2/core/base.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/bioinspired/retina.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/matlab/bridge.hpp
-
-NOT PACK: 
-/usr/local/lib/pkgconfig/LRAstar.pc
-
-NOT PACK: 
-/usr/local/include/opencv2/video/background_segm.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_rgbd.so
-
-NOT PACK: 
-/usr/local/lib/libopencv_dnn.so.3.3
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/mapperpyramid.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/allocator.h
-
-NOT PACK: 
-/usr/local/include/opencv2/video/video.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_videoio.so.3.2
-
-NOT PACK: 
-/usr/local/include/opencv2/imgproc/imgproc_c.h
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.symbols.bin
-
-NOT PACK: 
-/usr/local/include/opencv2/core/sse_utils.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/transform.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/cuda/vec_distance.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/mapshift.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/core/ptr.inl.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/datasets/is_weizmann.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_optflow.so
-
-NOT PACK: 
-/usr/local/include/opencv2/videostab/deblurring.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/flann/hdf5.h
-
-NOT PACK: 
-/usr/lib/libmpif90.so
-
-NOT PACK: 
-/usr/local/include/opencv2/photo/photo.hpp
-
-NOT PACK: 
-/usr/local/lib/libopencv_surface_matching.so
-
-NOT PACK: 
-/usr/lib/wx/python/wx.pth
-
-NOT PACK: 
-/usr/local/lib/pkgconfig/pose_estimators.pc
-
-NOT PACK: 
-/usr/lib/nvidia-384/libnvidia-wfb.so.1
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/xorg/extra-modules
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/dependency_links.txt
-
-NOT PACK: 
-/lib/udev/hwdb.bin
-
-NOT PACK: 
-/usr/local/lib/libopencv_flann.so.3.3
-
-NOT PACK: 
-/usr/local/include/ceres/internal/port.h
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/sparse_match_interpolator.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/ccalib/randpattern.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/superres/optical_flow.hpp
-
-NOT PACK: 
-/usr/local/lib/cmake/libuvc/libuvcTargets.cmake
-
-NOT PACK: 
-/usr/lib/nvidia-384/libnvidia-ptxjitcompiler.so.1
-
-NOT PACK: 
-/usr/local/include/opencv2/reg/mapprojec.hpp
-
-NOT PACK: 
-/usr/local/lib/pkgconfig/opencv.pc
-
-NOT PACK: 
-/usr/local/include/opencv2/objdetect/detection_based_tracker.hpp
-
-NOT PACK: 
-/usr/local/include/opencv2/video/tracking_c.h
-
-NOT PACK: 
-/usr/lib/nvidia-367/libnvidia-fbc.so.1
-
-NOT PACK: 
-/usr/local/include/opencv2/imgcodecs/ios.h
-
-NOT PACK: 
-/usr/local/lib/cmake/Ceres/FindGflags.cmake
-
-NOT PACK: 
-/usr/local/lib/libopencv_video.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00041-QCARMSWP-1
-
-NOT PACK: 
-/usr/local/lib/libopencv_features2d.so
-
-NOT PACK: 
-/usr/local/lib/libceres.so.1
-
-NOT PACK: 
-/usr/local/lib/libopencv_line_descriptor.so
-
-NOT PACK: 
-/usr/local/include/opencv2/rgbd.hpp
-
-NOT PACK: 
-/usr/local/include/python3.4/pygame/camera.h
-
-NOT PACK: 
-/usr/local/include/opencv2/text/ocr.hpp
-
-NOT PACK: 
-/usr/lib/libopen-pal.so.4
-
-NOT PACK: 
-/usr/local/include/ceres/autodiff_local_parameterization.h
-
-NOT PACK: 
-/usr/local/lib/libopencv_shape.so
-
-NOT PACK: 
-/usr/local/include/opencv2/ximgproc/lsc.hpp
 
 NOT PACK: 
 /usr/local/lib/libopencv_xphoto.so.3.2.0
 
 NOT PACK: 
-/usr/local/include/opencv2/imgproc.hpp
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00041-QCARMSWP-1
 
 NOT PACK: 
-/usr/local/include/ceres/internal/reenable_warnings.h
+/usr/local/lib/libopencv_structured_light.so.3.2
 
 NOT PACK: 
-/usr/local/include/opencv2/fuzzy/fuzzy_image.hpp
+/usr/lib/pymodules/python2.7/vtk/vtkGenericFilteringPython.so
 
 NOT PACK: 
-/usr/local/include/opencv2/xphoto/inpainting.hpp
+/usr/local/lib/libopencv_features2d.so.3.3.0
+
+NOT PACK: 
+/usr/local/lib/cmake/Ceres/FindGflags.cmake
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00132-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_objdetect.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_features2d.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_xobjdetect.so.3.2.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00014-QCARMSWP-1
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00119-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_imgcodecs.so.3.3.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_sfm.so.3.2.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00031-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/pkgconfig/pose_estimators.pc
+
+NOT PACK: 
+/usr/local/lib/libopencv_line_descriptor.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_stitching.so
+
+NOT PACK: 
+/usr/local/lib/cmake/libuvc/libuvcTargets-release.cmake
+
+NOT PACK: 
+/usr/local/lib/libopencv_photo.so.3.3
+
+NOT PACK: 
+/usr/local/lib/libopencv_bgsegm.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_shape.so.3.3
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00045-QCARMSWP-3
+
+NOT PACK: 
+/usr/lib/liblapack.so.3gf
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/dependency_links.txt
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/firmware-6.bin_RM.4.4.1.c2-00041-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_sfm.so.3.2
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkHybridPython.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_plot.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libmagi.so.0.1.0
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/PKG-INFO
+
+NOT PACK: 
+/usr/local/lib/libopencv_dnn.so.3.3
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00026-QCARMSWP-1
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/.priority
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00128-QCARMSWPZ-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_videostab.so.3.2
+
+NOT PACK: 
+/usr/lib/nvidia-384/libGLESv2.so.2
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/libfakeroot/libfakeroot-0.so
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00008-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_optflow.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_text.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libturbojpeg.la
+
+NOT PACK: 
+/usr/local/lib/libopencv_surface_matching.so
+
+NOT PACK: 
+/usr/lib/liblapack.a
+
+NOT PACK: 
+/usr/local/lib/libopencv_superres.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_saliency.so.3.2.0
+
+NOT PACK: 
+/usr/lib/cups/backend/mdns
+
+NOT PACK: 
+/usr/local/lib/cmake/libuvc/libuvcConfigVersion.cmake
+
+NOT PACK: 
+/usr/local/lib/libopencv_ccalib.so.3.2
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/top_level.txt
+
+NOT PACK: 
+/usr/include/unsupported
+
+NOT PACK: 
+/lib/plymouth/themes/default.plymouth
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/.path
+
+NOT PACK: 
+/lib/modules/4.4.0-31-generic/modules.symbols.bin
+
+NOT PACK: 
+/usr/local/lib/libopencv_datasets.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_highgui.so.3.3.0
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384_modeset.ko
+
+NOT PACK: 
+/usr/local/lib/cmake/Ceres/FindEigen.cmake
+
+NOT PACK: 
+/usr/local/lib/libopencv_imgproc.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_stitching.so.3.2
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00031-QCARMSWP-1
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00026-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_ml.so.3.3
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkCommonPython.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_calib3d.so
+
+NOT PACK: 
+/usr/local/lib/libceres.so.1.13.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/board-2.bin
+
+NOT PACK: 
+/usr/local/lib/libjpeg.a
+
+NOT PACK: 
+/usr/local/lib/libmagi.so
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00042-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_flann.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libturbojpeg.so.0
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/updates/dkms/bbswitch.ko
+
+NOT PACK: 
+/usr/local/lib/libopencv_stitching.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_ximgproc.so
+
+NOT PACK: 
+/usr/lib/flashplugin-installer/libflashplayer.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_ml.so.3.3.0
+
+NOT PACK: 
+/lib/ufw/user6.rules
+
+NOT PACK: 
+/usr/local/lib/libopencv_video.so.3.3
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/requires.txt
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00102-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_imgproc.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_reg.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libLRAstar.so
+
+NOT PACK: 
+/usr/lib/libblas.so.3
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkIOPython.so
+
+NOT PACK: 
+/lib/plymouth/themes/text.plymouth
+
+NOT PACK: 
+/usr/local/lib/libopencv_ml.so.3.2
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+
+NOT PACK: 
+/usr/local/lib/libopencv_saliency.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_tracking.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_videostab.so.3.3
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkGeovisPython.so
+
+NOT PACK: 
+/usr/local/lib/x86_64-linux-gnu/pkgconfig/ompl.pc
+
+NOT PACK: 
+/lib/modules/4.4.0-31-generic/modules.alias.bin
+
+NOT PACK: 
+/usr/local/lib/cmake/Ceres/CeresConfig.cmake
+
+NOT PACK: 
+/usr/local/lib/libopencv_phase_unwrapping.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_imgcodecs.so.3.2
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00079-QCARMSWPZ-1
 
 NOT PACK: 
 /usr/local/lib/libopencv_highgui.so.3.3
 
 NOT PACK: 
-/usr/local/include/opencv2/ximgproc.hpp
+/usr/local/lib/libopencv_imgcodecs.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_stereo.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_xobjdetect.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_xfeatures2d.so.3.2.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00132-QCARMSWP-1
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/dependency_links.txt
+
+NOT PACK: 
+/usr/local/lib/libopencv_calib3d.so.3.3.0
+
+NOT PACK: 
+/usr/local/lib/cmake/libuvc/libuvcTargets.cmake
+
+NOT PACK: 
+/usr/local/lib/x86_64-linux-gnu/pkgconfig/libuvc.pc
+
+NOT PACK: 
+/usr/local/lib/libopencv_tracking.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libjpeg.so.62
+
+NOT PACK: 
+/lib/modules/4.4.0-31-generic/modules.alias
+
+NOT PACK: 
+/usr/local/lib/libopencv_highgui.so.3.2.0
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkImagingPython.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_core.so.3.3.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_rgbd.so.3.2
+
+NOT PACK: 
+/usr/lib/nvidia-367/libnvidia-fbc.so.1
+
+NOT PACK: 
+/usr/local/lib/libceres.so.1
+
+NOT PACK: 
+/usr/local/lib/libopencv_xphoto.so.3.2
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00014-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_plot.so
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/modules.dep
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkParallelPython.so
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/modules.builtin.bin
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00051-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00038-QCARMSWP-1
+
+NOT PACK: 
+/usr/lib/libblas.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/top_level.txt
+
+NOT PACK: 
+/usr/local/lib/libopencv_core.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_imgproc.so.3.3.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_optflow.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_stereo.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_datasets.so.3.2
+
+NOT PACK: 
+/lib/cpp
+
+NOT PACK: 
+/usr/local/lib/libopencv_ml.so.3.2.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/notice.txt_RM.4.4.1.c2-00057-QCARMSWP-1
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1-nspkg.pth
+
+NOT PACK: 
+/usr/lib/libmpif77.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_text.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libuvc.so
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/firmware-4.bin_WLAN.RM.2.0-00180-QCARMSWPZ-1
+
+NOT PACK: 
+/lib/modules/4.4.0-31-generic/modules.dep
+
+NOT PACK: 
+/usr/local/lib/libopencv_bioinspired.so.3.2
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/modules.symbols.bin
+
+NOT PACK: 
+/usr/lib/cups/backend/usb
+
+NOT PACK: 
+/usr/local/lib/libturbojpeg.so.0.1.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_superres.so.3.2.0
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/PKG-INFO
+
+NOT PACK: 
+/usr/lib/graphviz/config6
+
+NOT PACK: 
+/usr/local/lib/libopencv_phase_unwrapping.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkVolumeRenderingPython.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_imgcodecs.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_rgbd.so
+
+NOT PACK: 
+/usr/lib/libmpi.so
+
+NOT PACK: 
+/usr/local/lib/libherb.so
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00110-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_surface_matching.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_freetype.so.3.2
+
+NOT PACK: 
+/usr/include/mpi
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00110-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_photo.so.3.2.0
+
+NOT PACK: 
+/usr/lib/libblas.a
+
+NOT PACK: 
+/usr/local/lib/libopencv_viz.so.3.2
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/top_level.txt
+
+NOT PACK: 
+/usr/local/lib/libopencv_viz.so.3.3
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00128-QCARMSWPZ-1
+
+NOT PACK: 
+/lib/modules/4.4.0-31-generic/modules.devname
+
+NOT PACK: 
+/usr/local/lib/libopencv_imgproc.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_objdetect.so.3.3
+
+NOT PACK: 
+/usr/local/lib/libopencv_features2d.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkInfovisPython.so
+
+NOT PACK: 
+/usr/local/lib/libpr-ompl-frechet.so
+
+NOT PACK: 
+/usr/local/lib/cmake/glfw3/glfw3Config.cmake
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384_drm.ko
+
+NOT PACK: 
+/usr/local/lib/libopencv_flann.so.3.3.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_phase_unwrapping.so.3.2
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/not-zip-safe
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/firmware-6.bin_RM.4.4.1.c2-00057-QCARMSWP-1
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/SOURCES.txt
+
+NOT PACK: 
+/usr/local/lib/libopencv_aruco.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_dnn.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_videoio.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_face.so
+
+NOT PACK: 
+/usr/local/lib/libturbojpeg.a
+
+NOT PACK: 
+/usr/local/lib/libopencv_plot.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_superres.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_dnn.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/pkgconfig/opencv.pc
+
+NOT PACK: 
+/usr/local/lib/cmake/glfw3/glfw3Targets-noconfig.cmake
+
+NOT PACK: 
+/usr/local/lib/libopencv_bioinspired.so
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache
+
+NOT PACK: 
+/usr/local/lib/libopencv_face.so.3.2.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00058-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_calib3d.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_video.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/VTK-5.8.0.egg-info
+
+NOT PACK: 
+/usr/lib/liblapack.so.3
+
+NOT PACK: 
+/usr/local/lib/pkgconfig/libjpeg.pc
 
 NOT PACK: 
 /usr/local/lib/libopencv_highgui.so.3.2
 
 NOT PACK: 
-/usr/local/lib/libturbojpeg.so.0.1.0
+/usr/local/lib/libopencv_freetype.so.3.2.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw2.1/board-2.bin
+
+NOT PACK: 
+/usr/local/lib/libopencv_video.so.3.2
+
+NOT PACK: 
+/usr/lib/mozilla/plugins/libjavaplugin.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_dpm.so
+
+NOT PACK: 
+/lib/udev/hwdb.bin
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00079-QCARMSWPZ-1
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384.ko
+
+NOT PACK: 
+/usr/local/lib/libjpeg.la
+
+NOT PACK: 
+/usr/include/Eigen
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gio/modules/giomodule.cache
+
+NOT PACK: 
+/usr/local/lib/libopencv_ccalib.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_objdetect.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_videoio.so.3.2.0
+
+NOT PACK: 
+/usr/lib/nvidia-384/libGLESv1_CM.so.1
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkViewsPython.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_reg.so
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/notice.txt_RM.4.4.1.c2-00041-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_viz.so
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00124-QCARMSWPZ-1
+
+NOT PACK: 
+/lib/ufw/user.rules
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00051-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_optflow.so
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00124-QCARMSWPZ-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_dnn.so.3.3.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_video.so.3.3.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_objdetect.so.3.3.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_datasets.so.3.2.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00037-QCARMSWP-1
+
+NOT PACK: 
+/usr/include/eigen3/unsupported/unsupported
+
+NOT PACK: 
+/usr/local/lib/libopencv_viz.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/cmake/Ceres/CeresTargets-release.cmake
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/modules.symbols
+
+NOT PACK: 
+/usr/lib/libmpi++.so
+
+NOT PACK: 
+/usr/lib/libvdpau_nvidia.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_face.so.3.2
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/namespace_packages.txt
+
+NOT PACK: 
+/usr/local/lib/libopencv_stitching.so.3.3
+
+NOT PACK: 
+/usr/local/lib/pkgconfig/glfw3.pc
+
+NOT PACK: 
+/usr/lib/mozilla/plugins/flashplugin-alternative.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_videoio.so.3.3.0
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/SOURCES.txt
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/modules.dep.bin
+
+NOT PACK: 
+/usr/lib/wx/python/wx.pth
+
+NOT PACK: 
+/usr/local/lib/libopencv_text.so
+
+NOT PACK: 
+/usr/local/lib/libjpeg.so
+
+NOT PACK: 
+/usr/lib/cups/backend/dnssd
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkFilteringPython.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_stereo.so.3.2.0
+
+NOT PACK: 
+/usr/lib/nvidia-367/libnvidia-wfb.so.1
+
+NOT PACK: 
+/usr/local/lib/libopencv_ximgproc.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_fuzzy.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libuvc.so.0
+
+NOT PACK: 
+/usr/lib/cups/backend/lpd
+
+NOT PACK: 
+/usr/local/lib/libopencv_xobjdetect.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_photo.so.3.2
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkWidgetsPython.so
+
+NOT PACK: 
+/usr/local/lib/libglfw3.a
+
+NOT PACK: 
+/usr/local/lib/libopencv_dnn.so.3.2
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw2.1/notice.txt_SW_RM.1.1.1-00157-QCARMSWPZ-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_videoio.so.3.2
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00042-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_shape.so
+
+NOT PACK: 
+/usr/lib/cups/backend/snmp
+
+NOT PACK: 
+/usr/local/lib/libopencv_videoio.so.3.3
+
+NOT PACK: 
+/usr/local/lib/libopencv_core.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_dpm.so.3.2
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkRenderingPython.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_dpm.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_highgui.so
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/immodules.cache
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/libtxc_dxtn.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_objdetect.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_imgcodecs.so.3.3
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/notice.txt_WLAN.RM.2.0-00180-QCARMSWPZ-1
+
+NOT PACK: 
+/usr/lib/nvidia-384/libnvidia-ptxjitcompiler.so.1
+
+NOT PACK: 
+/usr/local/lib/libopencv_superres.so.3.3.0
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/modules.alias.bin
+
+NOT PACK: 
+/usr/local/lib/libpr-ompl.so
+
+NOT PACK: 
+/usr/lib/locale/locale-archive
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/modules.softdep
+
+NOT PACK: 
+/usr/lib/kde4/libexec/kdesu
+
+NOT PACK: 
+/lib/modules/4.4.0-31-generic/modules.symbols
+
+NOT PACK: 
+/lib/modules/4.4.0-31-generic/modules.softdep
+
+NOT PACK: 
+/usr/local/lib/pkgconfig/libturbojpeg.pc
+
+NOT PACK: 
+/usr/local/lib/libopencv_line_descriptor.so.3.2.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00119-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_fuzzy.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_surface_matching.so.3.2.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4/notice.txt_WLAN.RM.4.4-00022-QCARMSWPZ-2
+
+NOT PACK: 
+/usr/local/lib/libopencv_flann.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_videostab.so.3.3.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_core.so.3.3
+
+NOT PACK: 
+/usr/local/lib/libuvc.so.0.0.5
+
+NOT PACK: 
+/usr/local/lib/libturbojpeg.so
+
+NOT PACK: 
+/usr/local/lib/pkgconfig/LRAstar.pc
+
+NOT PACK: 
+/usr/lib/nvidia-384/libEGL.so.1
+
+NOT PACK: 
+/usr/local/lib/libopencv_calib3d.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_photo.so.3.3.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00058-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_flann.so
+
+NOT PACK: 
+/lib/recovery-mode/recovery-mode
+
+NOT PACK: 
+/usr/local/lib/libopencv_xphoto.so
+
+NOT PACK: 
+/usr/local/lib/pkgconfig/pr-ompl.pc
+
+NOT PACK: 
+/usr/local/lib/libopencv_imgproc.so.3.3
+
+NOT PACK: 
+/usr/local/lib/libopencv_bgsegm.so
+
+NOT PACK: 
+/usr/local/lib/cmake/glfw3/glfw3Targets.cmake
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/modules.devname
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00045-QCARMSWP-3
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/PKG-INFO
+
+NOT PACK: 
+/usr/local/lib/libopencv_structured_light.so.3.2.0
+
+NOT PACK: 
+/usr/lib/libopen-pal.so.4
+
+NOT PACK: 
+/lib/plymouth/themes/default.grub
+
+NOT PACK: 
+/usr/local/lib/libopencv_xfeatures2d.so.3.2
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00102-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_features2d.so.3.3
+
+NOT PACK: 
+/usr/local/lib/libopencv_photo.so
+
+NOT PACK: 
+/usr/local/lib/libjpeg.so.62.2.0
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384_uvm.ko
+
+NOT PACK: 
+/usr/local/lib/libopencv_aruco.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_flann.so.3.3
+
+NOT PACK: 
+/usr/local/lib/libopencv_aruco.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_viz.so.3.3.0
+
+NOT PACK: 
+/usr/lib/cups/backend/socket
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00035-QCARMSWP-1
+
+NOT PACK: 
+/usr/lib/libblas.so.3gf
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00037-QCARMSWP-1
+
+NOT PACK: 
+/usr/lib/xorg/modules/drivers/nvidia_drv.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_shape.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_xfeatures2d.so
+
+NOT PACK: 
+/lib/modules/4.4.0-31-generic/modules.dep.bin
+
+NOT PACK: 
+/usr/local/lib/libopencv_features2d.so.3.2
+
+NOT PACK: 
+/usr/lib/vdpau/libvdpau_nvidia.so.1
+
+NOT PACK: 
+/usr/local/lib/libopencv_ml.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_stitching.so.3.3.0
+
+NOT PACK: 
+/usr/lib/libmpif90.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/SOURCES.txt
+
+NOT PACK: 
+/usr/local/lib/libopencv_shape.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_videostab.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_saliency.so.3.2
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00065-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/cmake/libuvc/libuvcConfig.cmake
+
+NOT PACK: 
+/usr/local/lib/libceres.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_shape.so.3.3.0
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00041-QCARMSWP-1
+
+NOT PACK: 
+/usr/local/lib/libopencv_tracking.so
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00008-QCARMSWP-1
+
+NOT PACK: 
+/lib/modules/4.4.0-59-generic/modules.alias
+
+NOT PACK: 
+/usr/local/lib/libopencv_bioinspired.so.3.2.0
+
+NOT PACK: 
+/usr/lib/liblapack.so
+
+NOT PACK: 
+/lib/modules/4.4.0-31-generic/modules.builtin.bin
+
+NOT PACK: 
+/usr/local/lib/libopencv_video.so.3.2.0
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkChartsPython.so
+
+NOT PACK: 
+/usr/local/lib/cmake/Ceres/FindGlog.cmake
+
+NOT PACK: 
+/usr/local/lib/libopencv_ccalib.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_videostab.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_calib3d.so.3.3
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00035-QCARMSWP-1
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00038-QCARMSWP-1
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/dependency_links.txt
+
+NOT PACK: 
+/lib/firmware/ath10k/QCA6174/hw3.0/4.4/firmware-6.bin_WLAN.RM.4.4-00022-QCARMSWPZ-2
+
+NOT PACK: 
+/usr/local/lib/libopencv_structured_light.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_core.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_freetype.so
+
+NOT PACK: 
+/usr/lib/nvidia-384/libnvidia-wfb.so.1
+
+NOT PACK: 
+/usr/local/lib/libopencv_bgsegm.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_reg.so.3.2.0
+
+NOT PACK: 
+/usr/lib/jvm/.java-8-oracle.jinfo
+
+NOT PACK: 
+/usr/local/lib/libopencv_ximgproc.so.3.2
+
+NOT PACK: 
+/usr/local/lib/libopencv_line_descriptor.so
+
+NOT PACK: 
+/usr/local/lib/libopencv_sfm.so
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/xorg/extra-modules
+
+NOT PACK: 
+/usr/local/lib/pkgconfig/eyerectoo_stream.pc
+
+NOT PACK: 
+/usr/local/lib/libopencv_rgbd.so.3.2.0
+
+NOT PACK: 
+/usr/local/lib/cmake/Ceres/CeresConfigVersion.cmake
+
+NOT PACK: 
+/usr/local/lib/libherb.so.0.2.0
+
+NOT PACK: 
+/usr/local/lib/libopencv_superres.so.3.3
+
+NOT PACK: 
+/usr/local/lib/cmake/Ceres/CeresTargets.cmake
+
+NOT PACK: 
+/usr/local/lib/libopencv_fuzzy.so.3.2
+
+NOT PACK: 
+/lib/plymouth/themes/ubuntu-text/ubuntu-text.plymouth
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkGraphicsPython.so
