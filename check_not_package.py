@@ -40,8 +40,29 @@ def get_find_files():
     return cleaned_files_out
 
 
+def find_not_package_files():
+    ignore_prefixes = [
+        "/usr/local/lib/python3.4/dist-packages/tensorflow/",
+        "/usr/lib/node_modules", 
+        "/usr/local/lib/node_modules", 
+        "/usr/local/lib/python2.7/dist-packages",
+        "/usr/lib/python2.7/dist-packages"]
+
+    for cur_find_file in find_file_set:
+        if cur_find_file not in dpkg_file_set:
+
+            if check_if_ignored(cur_find_file, ignore_prefixes):
+                continue
+
+            print("")
+            print("NOT PACK: ")
+            print(cur_find_file)
+
+
 if __name__ == '__main__':
     dpkg_file_set = get_dpkg_files()
     find_file_set = get_find_files()
 
-    pdb.set_trace()
+    find_not_package_files()
+
+    # pdb.set_trace()
