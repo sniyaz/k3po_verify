@@ -49,6 +49,9 @@ def check_if_python_file(full_filename):
 
 def find_not_package_files():
     ignore_prefixes = [
+        "/lib/modules/4.4.0-59-generic/",
+        "/lib/modules/4.4.0-31-generic/",
+        "/lib/firmware/",
         "/usr/lib/pymodules/python2.7/matplotlib/",
         "/usr/lib/jvm/java-8-oracle/",
         "/usr/local/lib/python3.4/dist-packages/",

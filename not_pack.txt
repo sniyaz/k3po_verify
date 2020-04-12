@@ -1,24 +1,63 @@
 
 NOT PACK: 
-/usr/lib/x86_64-linux-gnu/xorg/extra-modules
-
-NOT PACK: 
-/usr/include/Eigen
-
-NOT PACK: 
-/lib/plymouth/themes/ubuntu-text/ubuntu-text.plymouth
-
-NOT PACK: 
-/usr/lib/nvidia-367/libnvidia-fbc.so.1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00035-QCARMSWP-1
-
-NOT PACK: 
 /usr/lib/pymodules/python2.7/vtk/vtkIOPython.so
 
 NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/notice.txt_RM.4.4.1.c2-00041-QCARMSWP-1
+/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/top_level.txt
+
+NOT PACK: 
+/usr/lib/wx/python/wx.pth
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkCommonPython.so
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/dependency_links.txt
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/libfakeroot/libfakeroot-0.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/dependency_links.txt
+
+NOT PACK: 
+/usr/lib/mozilla/plugins/flashplugin-alternative.so
+
+NOT PACK: 
+/lib/ufw/user.rules
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+
+NOT PACK: 
+/usr/include/mpi
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkViewsPython.so
+
+NOT PACK: 
+/usr/lib/nvidia-384/libGLESv2.so.2
+
+NOT PACK: 
+/usr/lib/libopen-pal.so.4
+
+NOT PACK: 
+/usr/lib/libmpif90.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkGraphicsPython.so
+
+NOT PACK: 
+/usr/lib/graphviz/config6
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/PKG-INFO
+
+NOT PACK: 
+/usr/include/unsupported
 
 NOT PACK: 
 /usr/lib/pymodules/python2.7/vtk/vtkWidgetsPython.so
@@ -27,469 +66,205 @@ NOT PACK:
 /usr/lib/flashplugin-installer/libflashplayer.so
 
 NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00058-QCARMSWP-1
-
-NOT PACK: 
-/lib/udev/hwdb.bin
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/libtxc_dxtn.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00037-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00026-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/vdpau/libvdpau_nvidia.so.1
-
-NOT PACK: 
-/usr/lib/libmpif90.so
-
-NOT PACK: 
-/usr/lib/libopen-pal.so.4
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00041-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkFilteringPython.so
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.alias
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00008-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw2.1/notice.txt_SW_RM.1.1.1-00157-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/top_level.txt
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00079-QCARMSWPZ-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00124-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1-nspkg.pth
-
-NOT PACK: 
-/usr/lib/libmpi.so
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.alias.bin
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/PKG-INFO
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00008-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/notice.txt_WLAN.RM.2.0-00180-QCARMSWPZ-1
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.devname
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00110-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/top_level.txt
-
-NOT PACK: 
-/usr/include/mpi
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.alias
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384.ko
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/notice.txt_RM.4.4.1.c2-00057-QCARMSWP-1
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.dep.bin
-
-NOT PACK: 
-/usr/lib/liblapack.so.3
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
-
-NOT PACK: 
-/lib/cpp
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00058-QCARMSWP-1
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.dep.bin
-
-NOT PACK: 
-/usr/lib/mozilla/plugins/flashplugin-alternative.so
-
-NOT PACK: 
-/usr/lib/nvidia-384/libnvidia-ptxjitcompiler.so.1
-
-NOT PACK: 
-/usr/lib/cups/backend/snmp
-
-NOT PACK: 
 /usr/lib/cups/backend/socket
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00132-QCARMSWP-1
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.builtin.bin
-
-NOT PACK: 
-/usr/lib/libmpif77.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00119-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkGraphicsPython.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00051-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/gio/modules/giomodule.cache
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/PKG-INFO
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00014-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00128-QCARMSWPZ-1
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.symbols.bin
-
-NOT PACK: 
-/usr/lib/cups/backend/mdns
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/dependency_links.txt
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.softdep
-
-NOT PACK: 
-/usr/lib/libmpi++.so
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/PKG-INFO
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00110-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/libblas.so.3
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkViewsPython.so
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.dep
-
-NOT PACK: 
-/usr/lib/libblas.a
-
-NOT PACK: 
-/usr/lib/libvdpau_nvidia.so
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384_modeset.ko
-
-NOT PACK: 
-/usr/lib/libblas.so.3gf
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00045-QCARMSWP-3
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00014-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00035-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00026-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/board-2.bin
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/VTK-5.8.0.egg-info
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw2.1/board-2.bin
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00124-QCARMSWPZ-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/SOURCES.txt
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkGeovisPython.so
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkHybridPython.so
-
-NOT PACK: 
-/usr/lib/nvidia-384/libnvidia-wfb.so.1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/requires.txt
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00031-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/top_level.txt
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4/notice.txt_WLAN.RM.4.4-00022-QCARMSWPZ-2
-
-NOT PACK: 
-/usr/lib/nvidia-367/libnvidia-wfb.so.1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/not-zip-safe
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/namespace_packages.txt
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkChartsPython.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00079-QCARMSWPZ-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/.priority
-
-NOT PACK: 
-/usr/lib/libblas.so
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.builtin.bin
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkRenderingPython.so
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.softdep
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00031-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00132-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/dependency_links.txt
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkInfovisPython.so
-
-NOT PACK: 
-/usr/lib/xorg/modules/drivers/nvidia_drv.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00065-QCARMSWP-1
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.symbols
-
-NOT PACK: 
-/lib/recovery-mode/recovery-mode
-
-NOT PACK: 
-/usr/lib/liblapack.so
-
-NOT PACK: 
-/usr/lib/jvm/.java-8-oracle.jinfo
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.devname
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkCommonPython.so
-
-NOT PACK: 
-/usr/lib/wx/python/wx.pth
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00051-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/nvidia-384/libGLESv2.so.2
-
-NOT PACK: 
-/lib/ufw/user6.rules
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00038-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00042-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/locale/locale-archive
-
-NOT PACK: 
-/lib/plymouth/themes/text.plymouth
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/SOURCES.txt
-
-NOT PACK: 
-/usr/lib/cups/backend/usb
-
-NOT PACK: 
-/usr/lib/cups/backend/dnssd
-
-NOT PACK: 
-/usr/lib/kde4/libexec/kdesu
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4/firmware-6.bin_WLAN.RM.4.4-00022-QCARMSWPZ-2
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/SOURCES.txt
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00065-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/nvidia-384/libEGL.so.1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00037-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00042-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/dependency_links.txt
-
-NOT PACK: 
-/usr/lib/mozilla/plugins/libjavaplugin.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/notice.txt_WLAN.RM.4.4.1-00102-QCARMSWP-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00128-QCARMSWPZ-1
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00038-QCARMSWP-1
 
 NOT PACK: 
 /usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/immodules.cache
 
 NOT PACK: 
-/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384_drm.ko
-
-NOT PACK: 
-/usr/lib/liblapack.so.3gf
-
-NOT PACK: 
-/lib/plymouth/themes/default.grub
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00119-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkImagingPython.so
-
-NOT PACK: 
-/usr/lib/graphviz/config6
-
-NOT PACK: 
-/lib/modules/4.4.0-31-generic/modules.alias.bin
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1/firmware-6.bin_WLAN.RM.4.4.1-00102-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkGenericFilteringPython.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/firmware-6.bin_RM.4.4.1.c1-00045-QCARMSWP-3
+/usr/lib/pymodules/python2.7/vtk/vtkGeovisPython.so
 
 NOT PACK: 
 /usr/lib/pymodules/python2.7/vtk/vtkParallelPython.so
 
 NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.dep
+/usr/lib/libmpi++.so
 
 NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.symbols
+/usr/lib/x86_64-linux-gnu/libtxc_dxtn.so
 
 NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c1/notice.txt_RM.4.4.1.c1-00041-QCARMSWP-1
+/lib/cpp
 
 NOT PACK: 
-/usr/lib/liblapack.a
+/usr/lib/cups/backend/mdns
 
 NOT PACK: 
-/lib/modules/4.4.0-59-generic/modules.symbols.bin
+/usr/lib/cups/backend/dnssd
 
 NOT PACK: 
-/usr/lib/pymodules/python2.7/.path
+/usr/lib/jvm/.java-8-oracle.jinfo
 
 NOT PACK: 
-/usr/lib/nvidia-384/libGLESv1_CM.so.1
+/usr/lib/vdpau/libvdpau_nvidia.so.1
 
 NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/firmware-6.bin_RM.4.4.1.c2-00057-QCARMSWP-1
+/usr/lib/mozilla/plugins/libjavaplugin.so
 
 NOT PACK: 
-/usr/include/unsupported
+/usr/lib/liblapack.so.3
 
 NOT PACK: 
-/usr/lib/cups/backend/lpd
+/lib/recovery-mode/recovery-mode
 
 NOT PACK: 
-/lib/modules/4.4.0-59-generic/updates/dkms/bbswitch.ko
-
-NOT PACK: 
-/lib/modules/4.4.0-59-generic/updates/dkms/nvidia_384_uvm.ko
-
-NOT PACK: 
-/usr/lib/pymodules/python2.7/vtk/vtkVolumeRenderingPython.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/4.4.1.c2/firmware-6.bin_RM.4.4.1.c2-00041-QCARMSWP-1
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/libfakeroot/libfakeroot-0.so
-
-NOT PACK: 
-/lib/firmware/ath10k/QCA6174/hw3.0/firmware-4.bin_WLAN.RM.2.0-00180-QCARMSWPZ-1
+/usr/lib/libblas.so.3
 
 NOT PACK: 
 /usr/include/eigen3/unsupported/unsupported
 
 NOT PACK: 
-/lib/ufw/user.rules
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/PKG-INFO
+
+NOT PACK: 
+/usr/lib/locale/locale-archive
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/not-zip-safe
+
+NOT PACK: 
+/usr/lib/liblapack.a
+
+NOT PACK: 
+/usr/lib/libmpif77.so
+
+NOT PACK: 
+/lib/plymouth/themes/ubuntu-text/ubuntu-text.plymouth
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/SOURCES.txt
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/.path
+
+NOT PACK: 
+/lib/plymouth/themes/default.grub
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/requires.txt
+
+NOT PACK: 
+/usr/lib/cups/backend/lpd
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkHybridPython.so
+
+NOT PACK: 
+/lib/plymouth/themes/text.plymouth
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/top_level.txt
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/joblib-0.7.1.egg-info/PKG-INFO
+
+NOT PACK: 
+/usr/lib/kde4/libexec/kdesu
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkGenericFilteringPython.so
+
+NOT PACK: 
+/usr/lib/nvidia-384/libGLESv1_CM.so.1
+
+NOT PACK: 
+/lib/udev/hwdb.bin
+
+NOT PACK: 
+/usr/lib/libblas.so
+
+NOT PACK: 
+/usr/lib/nvidia-384/libnvidia-ptxjitcompiler.so.1
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/xorg/extra-modules
+
+NOT PACK: 
+/usr/lib/xorg/modules/drivers/nvidia_drv.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1-nspkg.pth
+
+NOT PACK: 
+/usr/lib/libblas.so.3gf
+
+NOT PACK: 
+/usr/include/Eigen
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkImagingPython.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/dependency_links.txt
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkFilteringPython.so
 
 NOT PACK: 
 /lib/plymouth/themes/default.plymouth
+
+NOT PACK: 
+/lib/ufw/user6.rules
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/namespace_packages.txt
+
+NOT PACK: 
+/usr/lib/cups/backend/snmp
+
+NOT PACK: 
+/usr/lib/libblas.a
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gio/modules/giomodule.cache
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkRenderingPython.so
+
+NOT PACK: 
+/usr/lib/nvidia-367/libnvidia-wfb.so.1
+
+NOT PACK: 
+/usr/lib/libmpi.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkVolumeRenderingPython.so
+
+NOT PACK: 
+/usr/lib/liblapack.so.3gf
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkInfovisPython.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/SOURCES.txt
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/vtk/vtkChartsPython.so
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/openpyxl-1.7.0.egg-info/SOURCES.txt
+
+NOT PACK: 
+/usr/lib/libvdpau_nvidia.so
+
+NOT PACK: 
+/usr/lib/liblapack.so
+
+NOT PACK: 
+/usr/lib/nvidia-367/libnvidia-fbc.so.1
+
+NOT PACK: 
+/usr/lib/nvidia-384/libnvidia-wfb.so.1
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/matplotlib-1.3.1.egg-info/top_level.txt
+
+NOT PACK: 
+/usr/lib/pymodules/python2.7/VTK-5.8.0.egg-info
+
+NOT PACK: 
+/usr/lib/nvidia-384/libEGL.so.1
+
+NOT PACK: 
+/usr/lib/cups/backend/usb
