@@ -7093,7 +7093,6 @@
 ./eigen3/unsupported/Eigen/KroneckerProduct
 ./eigen3/unsupported/Eigen/Polynomials
 ./eigen3/unsupported/Eigen/IterativeSolvers
-./eigen3/unsupported/unsupported
 ./xf86drm.h
 ./math.h
 ./gssapi/gssapi.h
@@ -12214,7 +12213,6 @@
 ./vtkQtChartStyleSeriesColors.h
 ./termcap.h
 ./jpeglib.h
-./Eigen
 ./lapacke_config.h
 ./vtkQtChartScene.h
 ./python3.4
@@ -12416,7 +12414,6 @@
 ./atk-1.0/atk/atkhyperlink.h
 ./atk-1.0/atk/atkversion.h
 ./vtkQtChartLegendModel.h
-./unsupported
 ./phonon/VideoWidgetInterface
 ./phonon/audiooutputinterface.h
 ./phonon/MediaObject

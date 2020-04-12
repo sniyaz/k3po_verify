@@ -55,6 +55,7 @@ def check_if_txt_file(full_filename):
 
 def find_not_package_files():
     ignore_prefixes = [
+        "/usr/lib/libmpi",
         "/usr/lib/cups/",
         "/usr/lib/nvidia",
         "/usr/lib/pymodules/",

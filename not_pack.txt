@@ -1,132 +1,111 @@
 
 NOT PACK: 
-/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache
-
-NOT PACK: 
-/usr/lib/liblapack.so
-
-NOT PACK: 
-/lib/plymouth/themes/ubuntu-text/ubuntu-text.plymouth
-
-NOT PACK: 
 /usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/immodules.cache
-
-NOT PACK: 
-/usr/lib/libblas.a
-
-NOT PACK: 
-/usr/lib/graphviz/config6
-
-NOT PACK: 
-/usr/lib/libmpi++.so
-
-NOT PACK: 
-/usr/lib/jvm/.java-8-oracle.jinfo
 
 NOT PACK: 
 /usr/lib/x86_64-linux-gnu/libtxc_dxtn.so
 
 NOT PACK: 
-/lib/plymouth/themes/text.plymouth
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/xorg/extra-modules
-
-NOT PACK: 
-/usr/lib/locale/locale-archive
-
-NOT PACK: 
-/usr/lib/wx/python/wx.pth
-
-NOT PACK: 
-/usr/lib/xorg/modules/drivers/nvidia_drv.so
-
-NOT PACK: 
-/usr/lib/liblapack.a
-
-NOT PACK: 
-/lib/plymouth/themes/default.grub
-
-NOT PACK: 
-/usr/lib/libmpi.so
-
-NOT PACK: 
-/lib/udev/hwdb.bin
-
-NOT PACK: 
-/usr/lib/mozilla/plugins/libjavaplugin.so
-
-NOT PACK: 
-/usr/lib/libblas.so
-
-NOT PACK: 
 /usr/lib/x86_64-linux-gnu/libfakeroot/libfakeroot-0.so
 
 NOT PACK: 
-/lib/plymouth/themes/default.plymouth
-
-NOT PACK: 
-/lib/recovery-mode/recovery-mode
-
-NOT PACK: 
-/usr/lib/libmpif77.so
-
-NOT PACK: 
-/usr/lib/libblas.so.3gf
-
-NOT PACK: 
-/usr/include/Eigen
-
-NOT PACK: 
-/usr/lib/kde4/libexec/kdesu
-
-NOT PACK: 
-/usr/lib/libblas.so.3
-
-NOT PACK: 
-/usr/lib/libopen-pal.so.4
+/usr/lib/liblapack.so
 
 NOT PACK: 
 /usr/lib/flashplugin-installer/libflashplayer.so
 
 NOT PACK: 
-/usr/lib/mozilla/plugins/flashplugin-alternative.so
+/lib/plymouth/themes/ubuntu-text/ubuntu-text.plymouth
 
 NOT PACK: 
-/lib/cpp
+/usr/lib/mozilla/plugins/libjavaplugin.so
 
 NOT PACK: 
-/usr/lib/libvdpau_nvidia.so
-
-NOT PACK: 
-/usr/include/unsupported
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
-
-NOT PACK: 
-/usr/include/eigen3/unsupported/unsupported
-
-NOT PACK: 
-/usr/lib/x86_64-linux-gnu/gio/modules/giomodule.cache
-
-NOT PACK: 
-/usr/lib/libmpif90.so
-
-NOT PACK: 
-/lib/ufw/user6.rules
-
-NOT PACK: 
-/usr/lib/liblapack.so.3
-
-NOT PACK: 
-/usr/include/mpi
-
-NOT PACK: 
-/usr/lib/vdpau/libvdpau_nvidia.so.1
+/usr/lib/x86_64-linux-gnu/xorg/extra-modules
 
 NOT PACK: 
 /usr/lib/liblapack.so.3gf
 
 NOT PACK: 
+/lib/plymouth/themes/text.plymouth
+
+NOT PACK: 
+/lib/plymouth/themes/default.grub
+
+NOT PACK: 
+/usr/lib/mozilla/plugins/flashplugin-alternative.so
+
+NOT PACK: 
+/usr/lib/libblas.so.3gf
+
+NOT PACK: 
+/lib/udev/hwdb.bin
+
+NOT PACK: 
+/usr/lib/graphviz/config6
+
+NOT PACK: 
+/usr/lib/jvm/.java-8-oracle.jinfo
+
+NOT PACK: 
+/usr/lib/libblas.so.3
+
+NOT PACK: 
 /lib/ufw/user.rules
+
+NOT PACK: 
+/usr/lib/libvdpau_nvidia.so
+
+NOT PACK: 
+/usr/lib/libopen-pal.so.4
+
+NOT PACK: 
+/usr/lib/xorg/modules/drivers/nvidia_drv.so
+
+NOT PACK: 
+/usr/lib/wx/python/wx.pth
+
+NOT PACK: 
+/usr/lib/liblapack.so.3
+
+NOT PACK: 
+/lib/cpp
+
+NOT PACK: 
+/usr/lib/liblapack.a
+
+NOT PACK: 
+/usr/lib/locale/locale-archive
+
+NOT PACK: 
+/lib/recovery-mode/recovery-mode
+
+NOT PACK: 
+/usr/lib/kde4/libexec/kdesu
+
+NOT PACK: 
+/usr/lib/vdpau/libvdpau_nvidia.so.1
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gio/modules/giomodule.cache
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+
+NOT PACK: 
+/usr/lib/libblas.so
+
+NOT PACK: 
+/lib/ufw/user6.rules
+
+NOT PACK: 
+/usr/lib/libblas.a
+
+NOT PACK: 
+/lib/plymouth/themes/default.plymouth
+
+NOT PACK: 
+/usr/include/mpi
