@@ -8,7 +8,7 @@ NOT PACK:
 NOT PACK: 
 /usr/lib/x86_64-linux-gnu/libfakeroot/libfakeroot-0.so
 
-NOT PACK: 
+NOT PACK: (X)
 /usr/lib/liblapack.so
 
 NOT PACK: 
@@ -23,7 +23,7 @@ NOT PACK:
 NOT PACK: 
 /usr/lib/x86_64-linux-gnu/xorg/extra-modules
 
-NOT PACK: 
+NOT PACK: (X)
 /usr/lib/liblapack.so.3gf
 
 NOT PACK: 
@@ -35,10 +35,10 @@ NOT PACK:
 NOT PACK: 
 /usr/lib/mozilla/plugins/flashplugin-alternative.so
 
-NOT PACK: 
+NOT PACK: (X)
 /usr/lib/libblas.so.3gf
 
-NOT PACK: 
+NOT PACK:
 /lib/udev/hwdb.bin
 
 NOT PACK: 
@@ -47,7 +47,7 @@ NOT PACK:
 NOT PACK: 
 /usr/lib/jvm/.java-8-oracle.jinfo
 
-NOT PACK: 
+NOT PACK: (X)
 /usr/lib/libblas.so.3
 
 NOT PACK: 
@@ -65,13 +65,13 @@ NOT PACK:
 NOT PACK: 
 /usr/lib/wx/python/wx.pth
 
-NOT PACK: 
+NOT PACK: (X)
 /usr/lib/liblapack.so.3
 
 NOT PACK: 
 /lib/cpp
 
-NOT PACK: 
+NOT PACK: (X)
 /usr/lib/liblapack.a
 
 NOT PACK: 
@@ -95,13 +95,13 @@ NOT PACK:
 NOT PACK: 
 /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
 
-NOT PACK: 
+NOT PACK: (X)
 /usr/lib/libblas.so
 
 NOT PACK: 
 /lib/ufw/user6.rules
 
-NOT PACK: 
+NOT PACK: (X)
 /usr/lib/libblas.a
 
 NOT PACK: 
