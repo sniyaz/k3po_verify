@@ -11,3 +11,9 @@ find . -name "libpthread.so" -print
 
 ada_description
 
+sudo find . -name "*.a" -print
+
+sudo find . -name "*.hpp" -print
+
+sudo find . -name "*.h" -print
+
