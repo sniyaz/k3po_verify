@@ -40,15 +40,24 @@ def get_find_files():
     return cleaned_files_out
 
 
-# NOTE: We wat to ignore python files.
+# NOTE: We want to ignore python files.
 def check_if_python_file(full_filename):
     filename, file_extension = os.path.splitext(full_filename)
     if file_extension == ".py" or file_extension == ".pyc":
         return True
 
+# NOTE: We want to ignore txt files.
+def check_if_txt_file(full_filename):
+    filename, file_extension = os.path.splitext(full_filename)
+    if file_extension == ".txt":
+        return True
+
 
 def find_not_package_files():
     ignore_prefixes = [
+        "/usr/lib/cups/",
+        "/usr/lib/nvidia",
+        "/usr/lib/pymodules/",
         "/lib/modules/4.4.0-59-generic/",
         "/lib/modules/4.4.0-31-generic/",
         "/lib/firmware/",
@@ -68,6 +77,9 @@ def find_not_package_files():
                 continue
 
             if check_if_python_file(cur_find_file):
+                continue
+
+            if check_if_txt_file(cur_find_file):
                 continue
 
             print("")
