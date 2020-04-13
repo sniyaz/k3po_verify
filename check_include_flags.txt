@@ -1,0 +1,102 @@
+
+/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl_abstract/build/src/ompl/CMakeFiles/ompl.dir/flags.make
+CXX_FLAGS =  -DBOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS -DNDEBUG -O3 -O3 -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/src/external -I/usr/include/eigen3    -std=c++11 -W -Wall -Wextra -Wcast-qual -Wwrite-strings -Wunreachable-code -Wpointer-arith -Winit-self -Wredundant-decls -Wno-unused-parameter -Wno-unused-function -fext-numeric-literals -fPIC
+
+/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl_abstract/build/tests/CMakeFiles/test_2dcircles_opt_geometric.dir/flags.make
+CXX_FLAGS =  -DBOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS -DNDEBUG -O3 -O3 -DNDEBUG -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/src/external -I/usr/include/eigen3    -std=c++11 -W -Wall -Wextra -Wcast-qual -Wwrite-strings -Wunreachable-code -Wpointer-arith -Winit-self -Wredundant-decls -Wno-unused-parameter -Wno-unused-function -fext-numeric-literals -fPIC
+
+/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/dlib-19.10/examples/build/dlib_build/CMakeFiles/dlib.dir/flags.make
+CXX_FLAGS = -O3 -DNDEBUG -I/usr/local/include    -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DLAPACK_FORCE_UNDERSCORE -std=gnu++11 -Wreturn-type
+
+/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/dlib-19.10/examples/build/CMakeFiles/thread_function_ex.dir/flags.make
+CXX_FLAGS = -O3 -DNDEBUG -I/usr/local/include -I/usr/local/include/opencv -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/dlib-19.10/dlib/..    -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DLAPACK_FORCE_UNDERSCORE -std=gnu++11 -Wreturn-type
+
+/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/build/src/ompl/CMakeFiles/ompl.dir/flags.make
+CXX_FLAGS = -O3 -O3 -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/src/external -I/usr/include/eigen3    -std=c++11 -W -Wall -Wextra -Wcast-qual -Wwrite-strings -Wunreachable-code -Wpointer-arith -Winit-self -Wredundant-decls -Wno-unused-parameter -Wno-unused-function -fext-numeric-literals -fPIC
+
+/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/build/tests/CMakeFiles/test_2dcircles_opt_geometric.dir/flags.make
+CXX_FLAGS = -O3 -O3 -DNDEBUG -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/src/external -I/usr/include/eigen3    -std=c++11 -W -Wall -Wextra -Wcast-qual -Wwrite-strings -Wunreachable-code -Wpointer-arith -Winit-self -Wredundant-decls -Wno-unused-parameter -Wno-unused-function -fext-numeric-literals -fPIC
+
+/home/sniyaz/my-workspace/src/frechet_search/CTR/build/dlib_build/CMakeFiles/dlib.dir/flags.make
+CXX_FLAGS =  -std=c++11 -fext-numeric-literals -DNDEBUG -O3 -DNDEBUG -I/usr/include/eigen3 -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./include -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../benchmarking -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/frechet_search -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/pr_bgl -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../../concentric-tube-robot    -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DLAPACK_FORCE_UNDERSCORE -std=gnu++11 -Wreturn-type
+
+/home/sniyaz/my-workspace/src/frechet_search/CTR/build/CMakeFiles/alan_TRO_sanity.dir/flags.make
+CXX_FLAGS =  -std=c++11 -fext-numeric-literals -DNDEBUG -O3 -DNDEBUG -I/usr/include/eigen3 -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./include -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../benchmarking -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/frechet_search -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/pr_bgl -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../../concentric-tube-robot -I/home/sniyaz/my-workspace/src/frechet_search/CTR/jsoncpp -I/home/sniyaz/my-workspace/src/frechet_search/CTR/jsoncpp/json -I/home/sniyaz/my-workspace/src/frechet_search/CTR/jsonreader -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../../ASA   
+
+/home/sniyaz/my-workspace/src/frechet_search/CTR/build/CMakeFiles/ctr_vfp_demo.dir/flags.make
+CXX_FLAGS =  -std=c++11 -fext-numeric-literals -DNDEBUG -O3 -DNDEBUG -I/usr/include/eigen3 -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./include -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../benchmarking -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/frechet_search -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/pr_bgl -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../../concentric-tube-robot -I/home/sniyaz/my-workspace/src/frechet_search/CTR/jsoncpp -I/home/sniyaz/my-workspace/src/frechet_search/CTR/jsoncpp/json -I/home/sniyaz/my-workspace/src/frechet_search/CTR/jsonreader -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../../ASA -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/dlib-19.10/dlib/..    -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK -DDLIB_PNG_SUPPORT -DLAPACK_FORCE_UNDERSCORE -std=gnu++11 -Wreturn-type
+
+/home/sniyaz/my-workspace/src/frechet_search/concentric-tube-robot/examples/CMakeFiles/traj-vis-example.dir/flags.make
+CXX_FLAGS =  -std=c++11 -fext-numeric-literals -DNDEBUG -Wall -std=c++0x -O3 -DNDEBUG -I/usr/include/eigen3 -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./include -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../benchmarking -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/frechet_search -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/pr_bgl -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../../concentric-tube-robot -I/home/sniyaz/my-workspace/src/frechet_search/CTR/build -I/playpen1/adkuntz/Repos/nn/src   
+
+/home/sniyaz/my-workspace/src/frechet_search/concentric-tube-robot/MultitubeKinematics/CMakeFiles/cannula-kinematics.dir/flags.make
+CXX_FLAGS =  -std=c++11 -fext-numeric-literals -DNDEBUG -Wall -std=c++0x -O3 -DNDEBUG -I/usr/include/eigen3 -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./include -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../benchmarking -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/frechet_search -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/pr_bgl -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../../concentric-tube-robot -I/home/sniyaz/my-workspace/src/frechet_search/CTR/build -I/playpen1/adkuntz/Repos/nn/src -I/home/sniyaz/my-workspace/src/concentric-tube-robot/MultitubeKinematics/../util   
+
+/home/sniyaz/my-workspace/src/frechet_search/concentric-tube-robot/cannula-utils/CMakeFiles/cannula-utils.dir/flags.make
+CXX_FLAGS =  -std=c++11 -fext-numeric-literals -DNDEBUG -Wall -std=c++0x -O3 -DNDEBUG -I/usr/include/eigen3 -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./include -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../benchmarking -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/frechet_search -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/pr_bgl -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../../concentric-tube-robot -I/home/sniyaz/my-workspace/src/frechet_search/CTR/build -I/playpen1/adkuntz/Repos/nn/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/fcl/include   
+
+/home/sniyaz/my-workspace/src/frechet_search/concentric-tube-robot/cannula-model/CMakeFiles/cannula-model.dir/flags.make
+CXX_FLAGS =  -std=c++11 -fext-numeric-literals -DNDEBUG -Wall -std=c++0x -O3 -DNDEBUG -I/usr/include/eigen3 -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./include -I/home/sniyaz/my-workspace/src/frechet_search/CTR/./deps/ompl/src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../src -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../benchmarking -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/frechet_search -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../include/pr_bgl -I/home/sniyaz/my-workspace/src/frechet_search/CTR/../../concentric-tube-robot -I/home/sniyaz/my-workspace/src/frechet_search/CTR/build -I/playpen1/adkuntz/Repos/nn/src -I/home/sniyaz/my-workspace/src/concentric-tube-robot/cannula-model/../MultitubeKinematics -I/home/sniyaz/my-workspace/src/concentric-tube-robot/util   
+
+/home/sniyaz/my-workspace/build/pr_assets/gtest/CMakeFiles/gtest.dir/flags.make
+CXX_FLAGS = -O2 -g -DNDEBUG -fPIC -I/usr/src/gtest/include -I/usr/src/gtest     -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra
+
+/home/sniyaz/my-workspace/build/dartsim/dart/planning/CMakeFiles/dart-planning.dir/flags.make
+CXX_FLAGS =  -Wall -Wextra -fPIC -std=c++11 -O3 -DNDEBUG -g -fno-omit-frame-pointer -fno-inline-functions -fno-inline-functions-called-once -fno-optimize-sibling-calls -fPIC -I/home/sniyaz/my-workspace/src/dart_k3po -I/home/sniyaz/my-workspace/build/dartsim -isystem /usr/include/eigen3 -isystem /opt/ros/indigo/include   
+
+/home/sniyaz/my-workspace/build/dartsim/dart/utils/urdf/CMakeFiles/dart-utils-urdf.dir/flags.make
+CXX_FLAGS =  -Wall -Wextra -fPIC -std=c++11 -O3 -DNDEBUG -g -fno-omit-frame-pointer -fno-inline-functions -fno-inline-functions-called-once -fno-optimize-sibling-calls -fPIC -I/home/sniyaz/my-workspace/src/dart_k3po -I/home/sniyaz/my-workspace/build/dartsim -I/home/sniyaz/my-workspace/build/dartsim/dart/utils/urdf -isystem /usr/include/eigen3 -isystem /opt/ros/indigo/include   
+
+/home/sniyaz/my-workspace/build/dartsim/dart/collision/bullet/CMakeFiles/dart-collision-bullet.dir/flags.make
+CXX_FLAGS =  -Wall -Wextra -fPIC -std=c++11 -O3 -DNDEBUG -g -fno-omit-frame-pointer -fno-inline-functions -fno-inline-functions-called-once -fno-optimize-sibling-calls -fPIC -I/home/sniyaz/my-workspace/src/dart_k3po -I/home/sniyaz/my-workspace/build/dartsim -isystem /usr/include/bullet -isystem /usr/include/eigen3 -isystem /opt/ros/indigo/include   
+
+/home/sniyaz/my-workspace/build/dartsim/dart/external/odelcpsolver/CMakeFiles/dart-external-odelcpsolver.dir/flags.make
+CXX_FLAGS =  -Wall -Wextra -fPIC -std=c++11 -O3 -DNDEBUG -g -fno-omit-frame-pointer -fno-inline-functions -fno-inline-functions-called-once -fno-optimize-sibling-calls -fPIC -I/home/sniyaz/my-workspace/src/dart_k3po -I/home/sniyaz/my-workspace/build/dartsim -I/home/sniyaz/my-workspace/src/dart_k3po/dart/external/odelcpsolver/dart-external-odelcpsolver -I/home/sniyaz/my-workspace/src/dart_k3po/dart/external/odelcpsolver/PUBLIC -I/home/sniyaz/my-workspace/src/dart_k3po/dart/external/odelcpsolver   
+
+/home/sniyaz/my-workspace/build/dartsim/dart/external/lodepng/CMakeFiles/dart-external-lodepng.dir/flags.make
+CXX_FLAGS =  -Wall -Wextra -fPIC -std=c++11 -O3 -DNDEBUG -g -fno-omit-frame-pointer -fno-inline-functions -fno-inline-functions-called-once -fno-optimize-sibling-calls -fPIC -I/home/sniyaz/my-workspace/src/dart_k3po -I/home/sniyaz/my-workspace/build/dartsim -I/home/sniyaz/my-workspace/src/dart_k3po/dart/external/lodepng/dart-external-lodepng -I/home/sniyaz/my-workspace/src/dart_k3po/dart/external/lodepng/PUBLIC -I/home/sniyaz/my-workspace/src/dart_k3po/dart/external/lodepng   
+
+/home/sniyaz/my-workspace/build/dartsim/dart/external/imgui/CMakeFiles/dart-external-imgui.dir/flags.make
+CXX_FLAGS =  -Wall -Wextra -fPIC -std=c++11 -O3 -DNDEBUG -g -fno-omit-frame-pointer -fno-inline-functions -fno-inline-functions-called-once -fno-optimize-sibling-calls -fPIC -I/home/sniyaz/my-workspace/src/dart_k3po -I/home/sniyaz/my-workspace/build/dartsim -I/home/sniyaz/my-workspace/src/dart_k3po/dart/external/imgui/dart-external-imgui -I/home/sniyaz/my-workspace/src/dart_k3po/dart/external/imgui/PUBLIC -I/home/sniyaz/my-workspace/src/dart_k3po/dart/external/imgui   
+
+/home/sniyaz/my-workspace/build/libada/googletest-prefix/src/googletest-build/googlemock/gtest/CMakeFiles/gtest.dir/flags.make
+CXX_FLAGS = -I/home/sniyaz/my-workspace/build/libada/googletest-prefix/src/googletest/googletest/include -I/home/sniyaz/my-workspace/build/libada/googletest-prefix/src/googletest/googletest     -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers
+
+/home/sniyaz/my-workspace/build/libada/googletest-prefix/src/googletest-build/googlemock/CMakeFiles/gmock_main.dir/flags.make
+CXX_FLAGS = -I/home/sniyaz/my-workspace/build/libada/googletest-prefix/src/googletest/googlemock/include -I/home/sniyaz/my-workspace/build/libada/googletest-prefix/src/googletest/googlemock -I/home/sniyaz/my-workspace/build/libada/googletest-prefix/src/googletest/googletest/include -I/home/sniyaz/my-workspace/build/libada/googletest-prefix/src/googletest/googletest     -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers
+
+/home/sniyaz/my-workspace/build/libada/CMakeFiles/libada.dir/flags.make
+CXX_FLAGS =  -std=c++11 -O2 -g -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/libada/include -isystem /home/sniyaz/my-workspace/devel/include -isystem /opt/ros/indigo/include -I/home/sniyaz/my-workspace/build/libada/googletest-prefix/src/googletest/googletest/include -isystem /usr/include/eigen3    -Wall -Wextra -Wpedantic -std=c++11 -fext-numeric-literals
+
+/home/sniyaz/my-workspace/build/frechet_search_ada/gtest/CMakeFiles/gtest.dir/flags.make
+CXX_FLAGS =  -std=c++11 -O2 -g -DNDEBUG -fPIC -I/usr/src/gtest/include -I/usr/src/gtest     -std=c++11 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra
+
+/home/sniyaz/my-workspace/build/frechet_search_ada/CMakeFiles/optimize_ADA_placement.dir/flags.make
+CXX_FLAGS =  -std=c++11 -O2 -g -DNDEBUG -I/home/sniyaz/my-workspace/src/frechet_search/ADA/./include -I/home/sniyaz/my-workspace/src/frechet_search/ADA/../include/frechet_search -I/home/sniyaz/my-workspace/src/frechet_search/ADA/../include/pr_bgl -I/home/sniyaz/my-workspace/src/frechet_search/ADA/../benchmarking -I/home/sniyaz/my-workspace/src/frechet_search/ADA/../src -isystem /opt/ros/indigo/include -isystem /home/sniyaz/my-workspace/devel/include -I/home/sniyaz/my-workspace/src/frechet_search/ADA/../../ASA -isystem /usr/include/eigen3    -std=c++11 -fext-numeric-literals
+
+/home/sniyaz/my-workspace/build/frechet_search_ada/CMakeFiles/ADA_ASA.dir/flags.make
+CXX_FLAGS =  -std=c++11 -O2 -g -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/frechet_search/ADA/./include -I/home/sniyaz/my-workspace/src/frechet_search/ADA/../include/frechet_search -I/home/sniyaz/my-workspace/src/frechet_search/ADA/../include/pr_bgl -I/home/sniyaz/my-workspace/src/frechet_search/ADA/../benchmarking -I/home/sniyaz/my-workspace/src/frechet_search/ADA/../src -I/opt/ros/indigo/include -I/home/sniyaz/my-workspace/devel/include -I/home/sniyaz/my-workspace/src/frechet_search/ADA/../../ASA   
+
+/home/sniyaz/my-workspace/build/aikido/src/distance/CMakeFiles/aikido_distance.dir/flags.make
+CXX_FLAGS = -O2 -g -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/aikido/include -isystem /home/sniyaz/my-workspace/devel/include -isystem /usr/include/eigen3 -isystem /opt/ros/indigo/include    -Wall -Wextra -Wpedantic -std=c++11 -fext-numeric-literals
+
+/home/sniyaz/my-workspace/build/aikido/src/perception/CMakeFiles/aikido_perception.dir/flags.make
+CXX_FLAGS = -O2 -g -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/aikido/include -isystem /home/sniyaz/my-workspace/devel/include -isystem /opt/ros/indigo/include -isystem /usr/include/eigen3    -Wall -Wextra -Wpedantic -std=c++11 -fext-numeric-literals
+
+/home/sniyaz/my-workspace/build/aikido/src/external/kunz_retimer/CMakeFiles/aikido_external_kunzretimer.dir/flags.make
+CXX_FLAGS = -O2 -g -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/aikido/include -I/home/sniyaz/my-workspace/src/aikido/src/external/kunz_retimer -I/usr/include/eigen3    -Wall -Wextra -Wpedantic -std=c++11 -fext-numeric-literals -w
+
+/home/sniyaz/my-workspace/build/aikido/src/external/hauser_parabolic_smoother/CMakeFiles/aikido_external_hauserparabolicsmoother.dir/flags.make
+CXX_FLAGS = -O2 -g -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/aikido/include -I/home/sniyaz/my-workspace/src/aikido/src/external/hauser_parabolic_smoother    -Wall -Wextra -Wpedantic -std=c++11 -fext-numeric-literals -w
+
+/home/sniyaz/my-workspace/build/aikido/src/statespace/CMakeFiles/aikido_statespace.dir/flags.make
+CXX_FLAGS = -O2 -g -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/aikido/include -I/home/sniyaz/my-workspace/devel/include -isystem /usr/include/eigen3 -isystem /opt/ros/indigo/include    -Wall -Wextra -Wpedantic -std=c++11 -fext-numeric-literals
+
+/home/sniyaz/my-workspace/build/aikido/src/planner/kunzretimer/CMakeFiles/aikido_planner_kunzretimer.dir/flags.make
+CXX_FLAGS = -O2 -g -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/aikido/include -isystem /home/sniyaz/my-workspace/devel/include -isystem /usr/include/eigen3 -isystem /opt/ros/indigo/include -I/home/sniyaz/my-workspace/src/aikido/src/external/kunz_retimer    -Wall -Wextra -Wpedantic -std=c++11 -fext-numeric-literals
+
+/home/sniyaz/my-workspace/build/aikido/src/planner/parabolic/CMakeFiles/aikido_planner_parabolic.dir/flags.make
+CXX_FLAGS = -O2 -g -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/aikido/include -isystem /home/sniyaz/my-workspace/devel/include -isystem /usr/include/eigen3 -isystem /opt/ros/indigo/include -I/home/sniyaz/my-workspace/src/aikido/src/external/hauser_parabolic_smoother    -Wall -Wextra -Wpedantic -std=c++11 -fext-numeric-literals
+
+/home/sniyaz/my-workspace/build/aikido/src/control/ros/CMakeFiles/aikido_control_ros.dir/flags.make
+CXX_FLAGS = -O2 -g -DNDEBUG -fPIC -I/home/sniyaz/my-workspace/src/aikido/include -isystem /opt/ros/indigo/include -isystem /home/sniyaz/my-workspace/devel/include -isystem /usr/include/eigen3    -Wall -Wextra -Wpedantic -std=c++11 -fext-numeric-literals

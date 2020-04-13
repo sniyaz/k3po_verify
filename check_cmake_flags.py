@@ -16,11 +16,22 @@ def get_matching_files(top_dir, wanted_filename):
     return out_files
 
 
+def check_ignore(filename_in):
+    for prefix in ignore_prefixes:
+        if filename_in.startswith(prefix):
+            return True
+    
+    return False
+
+
 def read_unique_include_flags(files_in):
     unique_flags = set()
 
     # First, load everything in...
     for cur_flag_file in files_in:
+        if check_ignore(cur_flag_file):
+            continue        
+
         with open(cur_flag_file) as fp:
             for cur_line in fp:
                 cur_line = cur_line.rstrip('\n')
@@ -37,6 +48,12 @@ def read_unique_include_flags(files_in):
 if __name__ == '__main__':
     check_dir = "/home/sniyaz/my-workspace"
     include_out_file = "/home/sniyaz/Desktop/cmake_includes.txt"
+
+    ignore_prefixes = [
+        "/home/sniyaz/my-workspace/build/dartsim/unittests/",
+        "/home/sniyaz/my-workspace/build/dartsim/examples/",
+        "/home/sniyaz/my-workspace/build/dartsim/tutorials/",
+        "/home/sniyaz/my-workspace/build/aikido/tests/"]
 
     include_flag_files = get_matching_files(check_dir, "flags.make")
     read_unique_include_flags(include_flag_files)
