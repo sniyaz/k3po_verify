@@ -298,7 +298,6 @@
 ./pkgconfig/yaml-cpp.pc
 ./pkgconfig/pcl_tracking-1.7.pc
 ./pkgconfig/openscenegraph-osgViewer.pc
-./pkgconfig/fcl.pc
 ./pkgconfig/openscenegraph-osg.pc
 ./pkgconfig/cublas-7.5.pc
 ./pkgconfig/pcl_search-1.7.pc
@@ -349,7 +348,6 @@
 ./pkgconfig/libopenni.pc
 ./pkgconfig/jsoncpp.pc
 ./pkgconfig/liblog4cxx.pc
-./pkgconfig/ccd.pc
 ./pkgconfig/pcl_keypoints-1.7.pc
 ./pkgconfig/nautilus-sendto.pc
 ./pkgconfig/pcl_geometry-1.7.pc

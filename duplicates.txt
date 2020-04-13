@@ -6,6 +6,7 @@ Find Dir: /usr/lib
 Find Dir: /usr/local/lib/x86_64-linux-gnu
 Find Dir: /usr/lib/x86_64-linux-gnu
 Find Dir: /usr/include/x86_64-linux-gnu
+Find Dir: /usr/share
 Find Dir: /opt/ros/indigo/include
 Find Dir: /usr/local/lib
 Find Dir: /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed
@@ -13,21 +14,17 @@ Find Dir: /usr/local/include
 Find Dir: /usr/lib/gcc/x86_64-linux-gnu/4.8/include
 Find Dir: /lib
 
-DUP:
-/usr/lib/x86_64-linux-gnu/libpng12.so.0
-/lib/x86_64-linux-gnu/libpng12.so.0
+DUP: 
+/usr/include/unwind.h
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/unwind.h
 
 DUP: 
-/usr/lib/x86_64-linux-gnu/tk8.6/tkConfig.sh
-/usr/lib/tk8.6/tkConfig.sh
+/usr/include/limits.h
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/limits.h
 
 DUP: 
-/usr/lib/x86_64-linux-gnu/tcl8.6/tclooConfig.sh
-/usr/lib/tcl8.6/tclooConfig.sh
-
-DUP: 
-/usr/lib/x86_64-linux-gnu/tcl8.6/tclConfig.sh
-/usr/lib/tcl8.6/tclConfig.sh
+/usr/include/stdint.h
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h
 
 DUP: 
 /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
@@ -38,20 +35,64 @@ DUP:
 /usr/lib/x86_64-linux-gnu/libpng12.so.0
 
 DUP: 
-/lib/i386-linux-gnu/libpng12.so.0
-/usr/lib/i386-linux-gnu/libpng12.so.0
+/lib64/ld-linux-x86-64.so.2
+/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
 
 DUP: 
 /lib/x86_64-linux-gnu/libpng12.so.0
 /usr/lib/x86_64-linux-gnu/libpng12.so.0
 
 DUP: 
-/opt/ros/indigo/lib/pkgconfig/ccd.pc
-/usr/lib/pkgconfig/ccd.pc
+/lib/terminfo/s/sun
+/usr/share/terminfo/s/sun
 
 DUP: 
-/opt/ros/indigo/lib/pkgconfig/fcl.pc
-/usr/lib/pkgconfig/fcl.pc
+/lib/ufw/user6.rules
+/usr/share/ufw/user6.rules
+
+DUP: 
+/lib/terminfo/x/xterm-r6
+/usr/share/terminfo/x/xterm-r6
+
+DUP: 
+/lib/terminfo/v/vt220
+/usr/share/terminfo/v/vt220
+
+DUP: 
+/lib/ufw/user.rules
+/usr/share/ufw/user.rules
+
+DUP: 
+/lib/terminfo/c/cons25
+/usr/share/terminfo/c/cons25
+
+DUP: 
+/lib/terminfo/v/vt100
+/usr/share/terminfo/v/vt100
+
+DUP: 
+/lib/terminfo/x/xterm-color
+/usr/share/terminfo/x/xterm-color
+
+DUP: 
+/lib/i386-linux-gnu/libpng12.so.0
+/usr/lib/i386-linux-gnu/libpng12.so.0
+
+DUP: 
+/usr/lib/x86_64-linux-gnu/tcl8.6/tclConfig.sh
+/usr/lib/tcl8.6/tclConfig.sh
+
+DUP: 
+/usr/lib/x86_64-linux-gnu/tcl8.6/tclooConfig.sh
+/usr/lib/tcl8.6/tclooConfig.sh
+
+DUP: 
+/usr/lib/x86_64-linux-gnu/tk8.6/tkConfig.sh
+/usr/lib/tk8.6/tkConfig.sh
+
+DUP: 
+/usr/lib/x86_64-linux-gnu/libpng12.so.0
+/lib/x86_64-linux-gnu/libpng12.so.0
 
 DUP: 
 /usr/lib/gcc/x86_64-linux-gnu/4.8/include/unwind.h
@@ -62,12 +103,20 @@ DUP:
 /usr/include/stdint.h
 
 DUP: 
-/usr/lib/pkgconfig/ccd.pc
-/opt/ros/indigo/lib/pkgconfig/ccd.pc
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/limits.h
+/usr/include/limits.h
 
 DUP: 
-/usr/lib/pkgconfig/fcl.pc
-/opt/ros/indigo/lib/pkgconfig/fcl.pc
+/usr/lib/libreoffice/share/config/images_human.zip
+/usr/share/libreoffice/share/config/images_human.zip
+
+DUP: 
+/usr/lib/tcl8.6/tclConfig.sh
+/usr/lib/x86_64-linux-gnu/tcl8.6/tclConfig.sh
+
+DUP: 
+/usr/lib/perl/5.18
+/usr/share/perl/5.18
 
 DUP: 
 /usr/lib/x86_64-linux-gnu/libpng12.so.0
@@ -78,33 +127,65 @@ DUP:
 /usr/lib/x86_64-linux-gnu/tk8.6/tkConfig.sh
 
 DUP: 
-/usr/lib/tcl8.6/tclooConfig.sh
-/usr/lib/x86_64-linux-gnu/tcl8.6/tclooConfig.sh
-
-DUP: 
 /usr/lib/i386-linux-gnu/libpng12.so.0
 /lib/i386-linux-gnu/libpng12.so.0
 
 DUP: 
-/usr/lib/tcl8.6/tclConfig.sh
-/usr/lib/x86_64-linux-gnu/tcl8.6/tclConfig.sh
+/usr/lib/grub/grub-mkconfig_lib
+/usr/share/grub/grub-mkconfig_lib
 
 DUP: 
-/usr/include/stdint.h
-/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h
+/usr/lib/libreoffice/ure-link
+/usr/share/libreoffice/ure-link
 
 DUP: 
-/usr/include/unwind.h
-/usr/lib/gcc/x86_64-linux-gnu/4.8/include/unwind.h
+/usr/lib/tcl8.6/tclooConfig.sh
+/usr/lib/x86_64-linux-gnu/tcl8.6/tclooConfig.sh
 
 DUP: 
-/usr/include/limits.h
-/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/limits.h
+/usr/share/terminfo/c/cons25
+/lib/terminfo/c/cons25
 
 DUP: 
-/lib64/ld-linux-x86-64.so.2
-/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+/usr/share/terminfo/v/vt220
+/lib/terminfo/v/vt220
 
 DUP: 
-/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/limits.h
-/usr/include/limits.h
+/usr/share/libreoffice/share/config/images_human.zip
+/usr/lib/libreoffice/share/config/images_human.zip
+
+DUP: 
+/usr/share/terminfo/x/xterm-r6
+/lib/terminfo/x/xterm-r6
+
+DUP: 
+/usr/share/grub/grub-mkconfig_lib
+/usr/lib/grub/grub-mkconfig_lib
+
+DUP: 
+/usr/share/perl/5.18
+/usr/lib/perl/5.18
+
+DUP: 
+/usr/share/libreoffice/ure-link
+/usr/lib/libreoffice/ure-link
+
+DUP: 
+/usr/share/terminfo/x/xterm-color
+/lib/terminfo/x/xterm-color
+
+DUP: 
+/usr/share/terminfo/s/sun
+/lib/terminfo/s/sun
+
+DUP: 
+/usr/share/terminfo/v/vt100
+/lib/terminfo/v/vt100
+
+DUP: 
+/usr/share/ufw/user6.rules
+/lib/ufw/user6.rules
+
+DUP: 
+/usr/share/ufw/user.rules
+/lib/ufw/user.rules

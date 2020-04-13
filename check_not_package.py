@@ -53,6 +53,20 @@ def check_if_txt_file(full_filename):
         return True
 
 
+# NOTE: We want to ignore xml files.
+def check_if_xml_file(full_filename):
+    filename, file_extension = os.path.splitext(full_filename)
+    if file_extension == ".xml":
+        return True
+
+
+# NOTE: We want to ignore gz files.
+def check_if_gz_file(full_filename):
+    filename, file_extension = os.path.splitext(full_filename)
+    if file_extension == ".gz":
+        return True
+
+
 def find_not_package_files():
     ignore_prefixes = [
         "/usr/lib/libmpi",
@@ -81,6 +95,12 @@ def find_not_package_files():
                 continue
 
             if check_if_txt_file(cur_find_file):
+                continue
+
+            if check_if_xml_file(cur_find_file):
+                continue
+
+            if check_if_gz_file(cur_find_file):
                 continue
 
             print("")
