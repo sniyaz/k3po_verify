@@ -3,19 +3,6 @@ import os
 import pdb
 
 
-def get_matching_files(top_dir, wanted_filename):
-    out_files = []
-
-    for r, d, f in os.walk(top_dir):
-        for file in f:
-            if file == wanted_filename:
-                final_filename = os.path.join(r, file)
-                out_files.append(final_filename)
-                #print(final_filename)
-    
-    return out_files
-
-
 def check_ignore(filename_in):
     for prefix in ignore_prefixes:
         if filename_in.startswith(prefix):
@@ -24,14 +11,27 @@ def check_ignore(filename_in):
     return False
 
 
+def get_matching_files(top_dir, wanted_filename):
+    out_files = []
+
+    for r, d, f in os.walk(top_dir):
+        for file in f:
+            if file == wanted_filename:
+                final_filename = os.path.join(r, file)
+                if check_ignore(final_filename):
+                    continue
+
+                out_files.append(final_filename)
+                #print(final_filename)
+    
+    return out_files
+
+
 def read_unique_include_flags(files_in):
     unique_flags = set()
 
     # First, load everything in...
     for cur_flag_file in files_in:
-        if check_ignore(cur_flag_file):
-            continue        
-
         with open(cur_flag_file) as fp:
             for cur_line in fp:
                 cur_line = cur_line.rstrip('\n')
