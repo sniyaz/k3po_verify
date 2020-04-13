@@ -1,0 +1,351 @@
+
+NOT PACK: 
+/usr/share/vim/addons/doc/tags
+
+NOT PACK: 
+/usr/share/meshlab/shaders/shadersrm/old/Depth of Field.rfx
+
+NOT PACK: 
+/usr/share/onboard/themes/Classic Onboard.theme
+
+NOT PACK: 
+/usr/share/icons/hicolor/128x128/apps/google-chrome.png
+
+NOT PACK: 
+/lib/plymouth/themes/default.grub
+
+NOT PACK: 
+/usr/share/fonts/X11/Type1/fonts.alias
+
+NOT PACK: 
+/usr/lib/locale/locale-archive
+
+NOT PACK: 
+/usr/share/onboard/themes/Classic Onboard.colors
+
+NOT PACK: 
+/usr/share/mime/magic
+
+NOT PACK: 
+/usr/share/fonts/truetype/fonts-japanese-gothic.ttf
+
+NOT PACK: 
+/usr/share/mime/globs2
+
+NOT PACK: 
+/usr/share/nvidia/nvidia-application-profiles-384.130-rc
+
+NOT PACK: 
+/lib/udev/hwdb.bin
+
+NOT PACK: 
+/usr/share/mime/mime.cache
+
+NOT PACK: 
+/usr/lib/flashplugin-installer/libflashplayer.so
+
+NOT PACK: 
+/usr/lib/libblas.so
+
+NOT PACK: 
+/usr/share/fonts/X11/Type1/fonts.dir
+
+NOT PACK: 
+/usr/lib/libblas.a
+
+NOT PACK: 
+/usr/share/icons/hicolor/32x32/apps/google-chrome.png
+
+NOT PACK: 
+/usr/include/mpi
+
+NOT PACK: 
+/usr/share/icons/hicolor/64x64/apps/google-chrome.png
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+
+NOT PACK: 
+/usr/share/icons/hicolor/48x48/apps/google-chrome.png
+
+NOT PACK: 
+/usr/share/icons/hicolor/32x32/apps/emacs.png
+
+NOT PACK: 
+/usr/share/onboard/layouts/Full Keyboard.onboard
+
+NOT PACK: 
+/usr/share/pixmaps/SymPy-500x500-Logo -No-Text.png
+
+NOT PACK: 
+/usr/share/binfmts/jar
+
+NOT PACK: 
+/usr/share/onboard/layouts/Full Keyboard-Alpha.svg
+
+NOT PACK: 
+/lib/cpp
+
+NOT PACK: 
+/usr/share/icons/Humanity/icon-theme.cache
+
+NOT PACK: 
+/usr/share/nvidia/nvidia-application-profiles-384.130-key-documentation
+
+NOT PACK: 
+/usr/share/mime/version
+
+NOT PACK: 
+/usr/share/icons/ubuntu-mono-dark/icon-theme.cache
+
+NOT PACK: 
+/usr/share/icons/hicolor/24x24/apps/emacs.png
+
+NOT PACK: 
+/lib/plymouth/themes/default.plymouth
+
+NOT PACK: 
+/usr/lib/liblapack.a
+
+NOT PACK: 
+/usr/lib/wx/python/wx.pth
+
+NOT PACK: 
+/usr/share/mime/subclasses
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/immodules.cache
+
+NOT PACK: 
+/usr/share/applications/mimeinfo.cache
+
+NOT PACK: 
+/usr/share/X11/xorg.conf.d/glamoregl.conf
+
+NOT PACK: 
+/usr/share/mime/treemagic
+
+NOT PACK: 
+/usr/share/applications/nvvp.desktop
+
+NOT PACK: 
+/usr/lib/liblapack.so
+
+NOT PACK: 
+/usr/share/fonts/X11/misc/fonts.alias
+
+NOT PACK: 
+/usr/share/icons/Tango/icon-theme.cache
+
+NOT PACK: 
+/usr/share/applications/bamf-2.index
+
+NOT PACK: 
+/usr/share/emacs24/site-lisp/debian-startup.el
+
+NOT PACK: 
+/usr/share/glib-2.0/schemas/gschemas.compiled
+
+NOT PACK: 
+/usr/share/icons/LoginIcons/icon-theme.cache
+
+NOT PACK: 
+/usr/share/app-install/icon-theme.cache
+
+NOT PACK: 
+/usr/share/icons/oxygen/icon-theme.cache
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gio/modules/giomodule.cache
+
+NOT PACK: 
+/usr/lib/graphviz/config6
+
+NOT PACK: 
+/usr/share/onboard/layouts/Full Keyboard-Numpad.svg
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/libtxc_dxtn.so
+
+NOT PACK: 
+/usr/share/info/dir
+
+NOT PACK: 
+/usr/share/example-content/Ubuntu_Free_Culture_Showcase/Josh Woodward - Swansong.ogg
+
+NOT PACK: 
+/usr/share/mime/XMLnamespaces
+
+NOT PACK: 
+/usr/lib/libblas.so.3gf
+
+NOT PACK: 
+/usr/lib/liblapack.so.3gf
+
+NOT PACK: 
+/usr/share/code/resources/app/extensions/javascript/syntaxes/Regular Expressions (JavaScript).tmLanguage
+
+NOT PACK: 
+/usr/share/mime/globs
+
+NOT PACK: 
+/usr/share/icons/hicolor/scalable/mimetypes/emacs-document.svg
+
+NOT PACK: 
+/usr/lib/liblapack.so.3
+
+NOT PACK: 
+/usr/share/fonts/X11/misc/encodings.dir
+
+NOT PACK: 
+/usr/share/ghostscript/current
+
+NOT PACK: 
+/usr/lib/libblas.so.3
+
+NOT PACK: 
+/usr/share/example-content/Ubuntu_Free_Culture_Showcase/How fast.ogg
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/libfakeroot/libfakeroot-0.so
+
+NOT PACK: 
+/usr/share/emacs24/site-lisp/debian-startup.elc
+
+NOT PACK: 
+/usr/share/meshlab/shaders/electronic microscope.gdp
+
+NOT PACK: 
+/usr/share/mime/aliases
+
+NOT PACK: 
+/usr/share/icons/hicolor/icon-theme.cache
+
+NOT PACK: 
+/usr/lib/vdpau/libvdpau_nvidia.so.1
+
+NOT PACK: 
+/lib/ufw/user.rules
+
+NOT PACK: 
+/usr/share/mime/icons
+
+NOT PACK: 
+/usr/lib/mozilla/plugins/flashplugin-alternative.so
+
+NOT PACK: 
+/usr/share/GConf/gsettings.dpkg-cache
+
+NOT PACK: 
+/usr/share/mime/types
+
+NOT PACK: 
+/usr/share/icons/ubuntu-mono-light/icon-theme.cache
+
+NOT PACK: 
+/usr/lib/libvdpau_nvidia.so
+
+NOT PACK: 
+/usr/share/icons/HighContrast/icon-theme.cache
+
+NOT PACK: 
+/usr/share/icons/gnome/icon-theme.cache
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache
+
+NOT PACK: 
+/usr/share/icons/hicolor/16x16/apps/google-chrome.png
+
+NOT PACK: 
+/usr/share/icons/hicolor/48x48/apps/emacs.png
+
+NOT PACK: 
+/usr/share/emacs24/site-lisp/cmake-data/cmake-mode.el
+
+NOT PACK: 
+/usr/share/icons/hicolor/22x22/apps/google-chrome.png
+
+NOT PACK: 
+/usr/share/octave/octave_packages
+
+NOT PACK: 
+/usr/share/icons/default/index.theme
+
+NOT PACK: 
+/usr/lib/jvm/.java-8-oracle.jinfo
+
+NOT PACK: 
+/usr/share/info/dir.old
+
+NOT PACK: 
+/usr/share/emacs24/site-lisp/cmake-data/cmake-mode.elc
+
+NOT PACK: 
+/usr/share/icons/unity-webapps-applications/icon-theme.cache
+
+NOT PACK: 
+/lib/recovery-mode/recovery-mode
+
+NOT PACK: 
+/usr/share/icons/hicolor/128x128/apps/emacs.png
+
+NOT PACK: 
+/usr/share/fonts/X11/misc/fonts.dir
+
+NOT PACK: 
+/usr/lib/xorg/modules/drivers/nvidia_drv.so
+
+NOT PACK: 
+/usr/share/icons/hicolor/256x256/apps/google-chrome.png
+
+NOT PACK: 
+/usr/share/icons/hicolor/16x16/apps/emacs.png
+
+NOT PACK: 
+/usr/share/icons/unity-icon-theme/icon-theme.cache
+
+NOT PACK: 
+/lib/plymouth/themes/text.plymouth
+
+NOT PACK: 
+/usr/lib/kde4/libexec/kdesu
+
+NOT PACK: 
+/lib/plymouth/themes/ubuntu-text/ubuntu-text.plymouth
+
+NOT PACK: 
+/usr/share/fonts/X11/Type1/encodings.dir
+
+NOT PACK: 
+/usr/share/gconf/defaults/10_libgksu
+
+NOT PACK: 
+/usr/share/icons/hicolor/scalable/apps/emacs.svg
+
+NOT PACK: 
+/usr/share/icons/hicolor/24x24/apps/google-chrome.png
+
+NOT PACK: 
+/usr/lib/mozilla/plugins/libjavaplugin.so
+
+NOT PACK: 
+/usr/share/applications/nsight.desktop
+
+NOT PACK: 
+/usr/lib/libopen-pal.so.4
+
+NOT PACK: 
+/usr/share/icons/Humanity-Dark/icon-theme.cache
+
+NOT PACK: 
+/usr/share/mime/generic-icons
+
+NOT PACK: 
+/usr/lib/x86_64-linux-gnu/xorg/extra-modules
+
+NOT PACK: 
+/lib/ufw/user6.rules
+
+NOT PACK: 
+/usr/share/fonts/X11/Type1/fonts.scale
