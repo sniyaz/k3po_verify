@@ -36,11 +36,17 @@ def read_unique_include_flags(files_in):
             for cur_line in fp:
                 cur_line = cur_line.rstrip('\n')
                 if cur_line.startswith("CXX_FLAGS"):
-                    if cur_line not in unique_flags:
-                        unique_flags.add(cur_line)
-                        print("")
-                        print(cur_flag_file)
-                        print(cur_line)
+                    line_parts = cur_line.split()
+                    for cur_part in line_parts:
+                        if cur_part not in unique_flags:
+                            unique_flags.add(cur_part)
+                            print("")
+                            
+                            part_idx = line_parts.index(cur_part)
+                            if part_idx > 0 and line_parts[part_idx - 1] == "-isystem":
+                                print("-isystem " + cur_part)
+                            else:
+                                print(cur_part)
                     
     
 
