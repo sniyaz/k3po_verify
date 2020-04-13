@@ -41,3 +41,7 @@ sudo find . ! -type d > ~/Desktop/find_outputs/usr_lib.txt
 
 cd /opt/ros/indigo/lib
 sudo find . ! -type d > ~/Desktop/find_outputs/opt_ros_indigo_lib.txt
+
+# And something extra.
+cd /usr/share
+sudo find . ! -type d > ~/Desktop/find_outputs/usr_share.txt
