@@ -36,6 +36,14 @@ def get_dir_from_find_output_file(cur_output_file):
 
 def check_grouped_find_files():
     ignore_prefixes = [
+        "/usr/include/clang",
+        "/usr/lib/clang",
+        "/usr/include/x86_64-linux-gnu/python3.5m",
+        "/usr/include/python3.5m",
+        "/usr/include/x86_64-linux-gnu/python3.4m",
+        "/usr/include/python3.4m",
+        "/usr/include/x86_64-linux-gnu/python2.7",
+        "/usr/include/python2.7/",
         "/usr/lib/node_modules", 
         "/usr/local/lib/node_modules", 
         "/usr/local/lib/python2.7/dist-packages",
