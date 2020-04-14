@@ -56,6 +56,10 @@ if __name__ == '__main__':
     include_out_file = "/home/sniyaz/Desktop/cmake_includes.txt"
 
     ignore_prefixes = [
+        "/home/sniyaz/my-workspace/build/frechet_search_ada/CMakeFiles",
+        "/home/sniyaz/my-workspace/src/frechet_search/concentric-tube-robot/examples/CMakeFiles",
+        "/home/sniyaz/my-workspace/src/frechet_search/CTR/deps/ompl/build/tests/",
+        "/home/sniyaz/my-workspace/src/frechet_search/CTR/build/CMakeFiles",
         "/home/sniyaz/my-workspace/build/dartsim/unittests/",
         "/home/sniyaz/my-workspace/build/dartsim/examples/",
         "/home/sniyaz/my-workspace/build/dartsim/tutorials/",
