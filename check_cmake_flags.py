@@ -47,10 +47,27 @@ def read_unique_include_flags(files_in):
                                 print("-isystem " + cur_part)
                             else:
                                 print(cur_part)
+
                     
-    
+
+# NOTE: We handle checking shared libs manually. For now, do this to check static libs only.
+def read_static_libs(files_in):
+    # First, load everything in...
+    for cur_flag_file in files_in:
+        with open(cur_flag_file) as fp:
+            for cur_line in fp:
+                cur_line = cur_line.rstrip('\n')
+                line_parts = cur_line.split()
+                for cur_part in line_parts:
+                    if ".a" in cur_part:
+                        print("")
+                        print(cur_flag_file)
+                        print(cur_part)
 
 
+
+
+ 
 if __name__ == '__main__':
     check_dir = "/home/sniyaz/my-workspace"
     include_out_file = "/home/sniyaz/Desktop/cmake_includes.txt"
@@ -67,3 +84,6 @@ if __name__ == '__main__':
 
     include_flag_files = get_matching_files(check_dir, "flags.make")
     read_unique_include_flags(include_flag_files)
+    
+    link_flag_files = get_matching_files(check_dir, "link.txt")
+    read_static_libs(link_flag_files)
