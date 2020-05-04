@@ -1,3 +1,0 @@
-./syslimits.h
-./README
-./limits.h
